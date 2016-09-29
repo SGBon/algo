@@ -62,11 +62,10 @@ def radix2(data):
 
 # Get the i-th digit of binary string x
 def digit(num,i):
-    x = radix2(num)
-    if i >= len(x):
+    if i >= len(num):
         return 0
     else:
-        d = x[-(i+1)]
+        d = num[-(i+1)]
         return 0 if d == '0' else 1
 
 def empty_array(size, init=None):
@@ -93,8 +92,7 @@ def COUNTING_SORT(A,i):
 
     return B
 
-def RADIX_SORT(A):
-    n = max(len(radix2(x)) for x in A)
+def RADIX_SORT(A,n):
     for i in range(n):
         A = COUNTING_SORT(A,i)
     return A
@@ -109,7 +107,7 @@ import time
 
 if __name__ == "__main__":
     unsorted = []
-    for i in range(10000):
+    for i in range(1000000):
         unsorted.append(genstring(100))
     print "sorting"
 
@@ -127,17 +125,24 @@ if __name__ == "__main__":
         quicksort(extra,0,len(extra)-1)
         quicktimes.append(time.clock() - elapsed)
 
-    radxtimes = []
+    # convert unsorted strings to binary once
+    unsortedbins = []
+    for i in unsorted:
+        unsortedbins.append(radix2(i))
+    radixtimes = []
+    # compute largest binary string for radix sort once
+    n = max(len(radix2(x)) for x in unsorted)
     for i in range(100):
-        extra = list(unsorted)
+        extra = list(unsortedbins)
         elapsed = time.clock()
-        radixsort(extra)
+        RADIX_SORT(extra,n)
+        print time.clock() - elapsed
         radixtimes.append(time.clock() - elapsed)
 
     import matplotlib.pyplot as plt
     plt.plot(mergetimes,label="Mergesort")
     plt.plot(quicktimes,label="Quicksort")
-    plot.plot(radixtimes,label="Radixsort")
+    plt.plot(radixtimes,label="Radixsort")
     plt.legend(bbox_to_anchor=(0., 1.02, 1., .102), mode="expand", borderaxespad=0.)
     plt.ylabel("Elapsed Time in Seconds")
     plt.xlabel("Run")
