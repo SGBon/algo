@@ -1,4 +1,4 @@
-#sorts 1,000,000 strings using mergesort, quicksort, and radix sort
+#sorts 1,000,000 strings using mergesort, quicksort and plots results
 
 # mergesort functions
 def merge(list1, list2):
@@ -51,52 +51,6 @@ def quicksort(L,p,r):
         quicksort(L,p,k-1)
         quicksort(L,k+1,r)
 
-# radixsort functions
-# convert data to bit string
-def radix2(data):
-    if type(data) is int: # convert integer to bit string
-        return "{0:b}".format(data)
-    elif type(data) is str: # convert a character string to bit string
-        ret = ''.join('{0:08b}'.format(ord(x), 'b') for x in data) # need full bytes
-        return ret
-
-# Get the i-th digit of binary string x
-def digit(num,i):
-    if i >= len(num):
-        return 0
-    else:
-        d = num[-(i+1)]
-        return 0 if d == '0' else 1
-
-def empty_array(size, init=None):
-    return [init for i in range(size)]
-
-# sort A using binary digit i
-def COUNTING_SORT(A,i):
-    n = len(A)
-    k = 2
-    B = empty_array(size=n)
-    C = empty_array(size=k,init=0)
-
-    for a in A:
-        d = digit(a,i)
-        C[d] = C[d] + 1
-
-    for j in range(1,k):
-        C[j] = C[j] + C[j-1]
-
-    for a in reversed(A):
-        d = digit(a,i)
-        B[C[d]-1] = a
-        C[d] = C[d] - 1
-
-    return B
-
-def RADIX_SORT(A,n):
-    for i in range(n):
-        A = COUNTING_SORT(A,i)
-    return A
-
 from random import choice
 from string import uppercase
 
@@ -125,24 +79,9 @@ if __name__ == "__main__":
         quicksort(extra,0,len(extra)-1)
         quicktimes.append(time.clock() - elapsed)
 
-    # convert unsorted strings to binary once
-    unsortedbins = []
-    for i in unsorted:
-        unsortedbins.append(radix2(i))
-    radixtimes = []
-    # compute largest binary string for radix sort once
-    n = max(len(radix2(x)) for x in unsorted)
-    for i in range(100):
-        extra = list(unsortedbins)
-        elapsed = time.clock()
-        RADIX_SORT(extra,n)
-        print time.clock() - elapsed
-        radixtimes.append(time.clock() - elapsed)
-
     import matplotlib.pyplot as plt
     plt.plot(mergetimes,label="Mergesort")
     plt.plot(quicktimes,label="Quicksort")
-    plt.plot(radixtimes,label="Radixsort")
     plt.legend(bbox_to_anchor=(0., 1.02, 1., .102), mode="expand", borderaxespad=0.)
     plt.ylabel("Elapsed Time in Seconds")
     plt.xlabel("Run")

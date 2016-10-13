@@ -7,8 +7,8 @@ def genstring(length):
     return "".join(choice(uppercase) for i in range(length))
 
 if __name__ == "__main__":
-    f = open("strings.txt","w")
-    for i in range(100000000):
-        f.write(genstring(100))
+    f = open("unsorted.txt","w")
+    for i in range(1000):
+        f.write(genstring(20))
         f.write("\n")
     f.close()

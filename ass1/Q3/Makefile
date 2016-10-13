@@ -1,10 +1,16 @@
 PY=python
-GENERATED=strings.txt sorted.txt
+UFILE=unsorted.txt
+SFILE=sorted.txt
+GENERATED=$(UFILE) $(SFILE)
 
-run: prepare
-	$(PY) sorthun.py
+run: prepare $(SFILE)
 
-prepare:
+$(SFILE):
+	$(PY) disksort.py
+
+prepare: $(UFILE)
+
+$(UFILE):
 	$(PY) genhunmil.py
 
 clean:
