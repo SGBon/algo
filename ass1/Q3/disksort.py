@@ -31,31 +31,47 @@ def mergesort(list):
 
     return list
 
+#utility functions
+def zeros(n):
+    return [0] * n
 
-CHUNK_SIZE = 100
-TOTAL_SIZE = 1000
-CHUNKS = TOTAL_SIZE/CHUNK_SIZE
+def string_at_pos(pos,file):
+    file.seek(pos)
+    return file.readline(),file.tell()
+
+
 if __name__ == "__main__":
     # create CHUNKS sorted chunks of CHUNK_SIZE length
     # by reading CHUNK_SIZE strings at a time
     # overwrite unsorted file so that it's presorted
-    with open("unsorted.txt","r+") as f:
+    CHUNK_SIZE = 100
+    TOTAL_SIZE = 1000
+    CHUNKS = TOTAL_SIZE/CHUNK_SIZE
+    chunk_starts = zeros(CHUNKS) # beginning of chunks within file as byte offsets
+    with open("unsorted.txt","r+") as unfile:
         for i in range(CHUNKS):
             curr_chunk = [] # list to hold current chunk of strings
-            lastbyte = f.tell()
+            lastbyte = unfile.tell()
+            chunk_starts[i] = lastbyte
             for j in range(CHUNK_SIZE):
-                curr_chunk.append(f.readline())
+                curr_chunk.append(unfile.readline())
             curr_chunk = mergesort(curr_chunk) # mergesort seperate chunks
             # overwrite chunk region in unsorted file
-            currbyte = f.tell()
-            f.seek(lastbyte)
+            currbyte = unfile.tell()
+            unfile.seek(lastbyte)
             for j in curr_chunk:
-                f.write(j)
-            f.seek(currbyte)
+                unfile.write(j)
+            unfile.seek(currbyte)
+
         # return to beginning of file, perform CHUNKS-way merge
         # merge step appends smallest value at start of presorted chunks
         # to end of sorted file
-        import btree
-        bst = BST()
-        with open("sorted.txt","w"):
-            print "hello
+        unfile.seek(0)
+        from btree import BST
+        bst = BST() # binary tree to search smallest value quickly during merge step
+        fpos = zeros(CHUNKS) # position offsets in unsorted file
+        STRING_LENGTH = 20
+        with open("sorted.txt","w") as sofile:
+            print chunk_starts
+            print fpos
+            print string_at_pos(chunk_starts[1] + fpos[1],unfile)
