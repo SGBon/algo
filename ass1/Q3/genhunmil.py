@@ -8,7 +8,7 @@ def genstring(length):
 
 if __name__ == "__main__":
     f = open("unsorted.txt","w")
-    for i in range(1000):
-        f.write(genstring(20))
+    for i in range(100000000):
+        f.write(genstring(100))
         f.write("\n")
     f.close()

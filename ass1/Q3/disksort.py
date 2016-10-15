@@ -44,8 +44,8 @@ if __name__ == "__main__":
     # create CHUNKS sorted chunks of CHUNK_SIZE length
     # by reading CHUNK_SIZE strings at a time
     # overwrite unsorted file so that it's presorted
-    CHUNK_SIZE = 100
-    TOTAL_SIZE = 1000
+    CHUNK_SIZE = 10
+    TOTAL_SIZE = 100000
     CHUNKS = TOTAL_SIZE/CHUNK_SIZE
     chunk_starts = zeros(CHUNKS) # beginning of chunks within file as byte offsets
     with open("unsorted.txt","r+") as unfile:
@@ -70,8 +70,23 @@ if __name__ == "__main__":
         from btree import BST
         bst = BST() # binary tree to search smallest value quickly during merge step
         fpos = zeros(CHUNKS) # position offsets in unsorted file
-        STRING_LENGTH = 20
+        CHUNK_BYTES = chunk_starts[1] - chunk_starts[0] # size of chunk in bytes
+        finished = False
         with open("sorted.txt","w") as sofile:
-            print chunk_starts
-            print fpos
-            print string_at_pos(chunk_starts[1] + fpos[1],unfile)
+            # initial BST population
+            for i in range(CHUNKS):
+                nextstr, lpos = string_at_pos(chunk_starts[i] + fpos[i],unfile)
+                fpos[i] = lpos - chunk_starts[i]
+                bst.put([nextstr,i],1)
+            while len(bst) > 0:
+                # get minimum str in bst, append to sorted file
+                minstr = bst.findMin()
+                index = minstr.key[1]
+                for i in range(minstr.freq):
+                    sofile.write(minstr.key[0])
+                bst.delete(minstr.key)
+                # get the next string from that chunk
+                if fpos[index] < CHUNK_BYTES:
+                    nextstr,lpos = string_at_pos(chunk_starts[index] + fpos[index],unfile)
+                    fpos[index] = lpos - chunk_starts[index]
+                    bst.put([nextstr,index],1)

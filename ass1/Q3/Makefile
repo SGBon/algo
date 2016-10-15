@@ -8,7 +8,7 @@ GENERATED=$(UFILE) $(SFILE)
 run: prepare $(SFILE)
 
 $(SFILE): $(SORTER) $(UFILE)
-	$(PY) $(SORTER)
+	time -p $(PY) $(SORTER)
 
 prepare: $(UFILE)
 

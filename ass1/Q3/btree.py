@@ -34,7 +34,7 @@ class BST:
             else:
                 currentNode.rightChild = TreeNode(key,val,parent=currentNode)
         else:
-            currentNode.freq = currentNode.freq + 1
+            currentNode.val = currentNode.val + 1
 
     def __setitem__(self,k,v):
         self.put(k,v)
