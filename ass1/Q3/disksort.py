@@ -44,8 +44,8 @@ if __name__ == "__main__":
     # create CHUNKS sorted chunks of CHUNK_SIZE length
     # by reading CHUNK_SIZE strings at a time
     # overwrite unsorted file so that it's presorted
-    CHUNK_SIZE = 10
-    TOTAL_SIZE = 100000
+    CHUNK_SIZE = 1000000
+    TOTAL_SIZE = 100000000
     CHUNKS = TOTAL_SIZE/CHUNK_SIZE
     chunk_starts = zeros(CHUNKS) # beginning of chunks within file as byte offsets
     with open("unsorted.txt","r+") as unfile:

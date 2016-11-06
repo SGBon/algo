@@ -89,3 +89,6 @@ ENV/
 .ropeproject
 
 *.txt
+*.7z
+*.pdf
+*.odt
