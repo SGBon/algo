@@ -2,8 +2,8 @@ import sys
 import hashtable
 
 # defaults
-N = 100000
-m = 10
+N = 1000000
+m = 100
 func = "f3"
 filename = "plot.png"
 if len(sys.argv) == 5:

@@ -10,7 +10,6 @@ class HashTable:
         self.h = h
         self.T = [[] for i in range(m)]
 
-    #
     def insert(self,x):
         index = self.h(x.key)
         self.T[index].append(x)
@@ -30,14 +29,16 @@ class HashTable:
 
 
 # we use currying because function pointers make this all the much simpler
-# multiplication based function for hashing
+from decimal import *
 import math
+# want a lot of precision because we'll be using numbers at least 2^63
+getcontext().prec = 30
+
+# multiplication based function for hashing
 def h_mul(A,m):
     def c_mul(key):
-        prod = key*A
-        frac = prod - math.floor(prod)
-        #if frac > 0.0:
-            #print frac
+        prod = Decimal(key)*Decimal(A)
+        frac = prod - prod.to_integral_exact(rounding=ROUND_FLOOR)
         return int(math.floor(m*frac))
     return c_mul
 
