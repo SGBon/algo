@@ -28,12 +28,12 @@ class HashTable:
              self.T[index].remove(x)
 
 
-# we use currying because function pointers make this all the much simpler
 from decimal import *
 import math
 # want a lot of precision because we'll be using numbers at least 2^63
 getcontext().prec = 30
 
+# we use currying because function pointers make this all the much simpler
 # multiplication based function for hashing
 def h_mul(A,m):
     def c_mul(key):

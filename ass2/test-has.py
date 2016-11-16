@@ -2,8 +2,8 @@ import sys
 import hashtable
 
 # defaults
-N = 1000000
-m = 100
+N = 1000
+m = 10
 func = "f3"
 filename = "plot.png"
 if len(sys.argv) == 5:
@@ -29,5 +29,18 @@ for i in range(N):
     x = hashtable.htentry(random.randint(0,sys.maxint))
     htable.insert(x)
 
+largest = 0;
+lengths = []
 for i in range(m):
-    print "Length of slot %d %d" % (i,len(htable.T[i]))
+    length = len(htable.T[i])
+    lengths.append(length)
+    largest = length if length > largest else largest
+    print "slot %d had %d collisions" % (i,length)
+print "Largest collision was %d" % largest
+
+import matplotlib.pyplot as plt
+from pylab import savefig
+plt.plot(lengths)
+plt.ylabel("Collisions")
+plt.xlabel("Slot")
+savefig(filename, bbox_inches='tight')
