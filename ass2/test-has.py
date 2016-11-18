@@ -41,7 +41,7 @@ print "Largest collision was %d" % largest
 import matplotlib.pyplot as plt
 from pylab import savefig
 plt.bar(range(m),lengths)
-plt.title("Collisions per slot using %s N=%d m=%d" % (func,N,M))
+plt.title("Collisions per slot using %s N=%d m=%d" % (func,N,m))
 plt.ylabel("Collisions")
 plt.xlabel("Slot")
 savefig(filename, bbox_inches='tight')
