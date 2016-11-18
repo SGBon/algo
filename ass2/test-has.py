@@ -9,8 +9,8 @@ filename = "plot.png"
 if len(sys.argv) == 5:
     N = int(sys.argv[1])
     m = int(sys.argv[2])
-    func = argv[3]
-    filename = argv[4]
+    func = sys.argv[3]
+    filename = sys.argv[4]
 
 # get our hashfunc
 if func == "f1":
@@ -40,7 +40,8 @@ print "Largest collision was %d" % largest
 
 import matplotlib.pyplot as plt
 from pylab import savefig
-plt.plot(lengths)
+plt.bar(range(m),lengths)
+plt.title("Collisions per slot using %s N=%d m=%d" % (func,N,M))
 plt.ylabel("Collisions")
 plt.xlabel("Slot")
 savefig(filename, bbox_inches='tight')
