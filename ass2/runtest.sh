@@ -9,7 +9,7 @@ do
     for m in ${MS[@]};
     do
       echo $n $m $f
-      python test-has.py $n $m $f $f_$n_$m.png
+      python test-has.py $n $m $f $f-$n-$m.png
     done
   done
 done

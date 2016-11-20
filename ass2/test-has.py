@@ -4,7 +4,7 @@ import hashtable
 # defaults
 N = 1000
 m = 10
-func = "f3"
+func = "f2"
 filename = "plot.png"
 if len(sys.argv) == 5:
     N = int(sys.argv[1])
