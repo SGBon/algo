@@ -1,0 +1,1916 @@
+Brian Ikeda|Matthew H. Kaye|7
+Hossam E. Gaber|Lixuan Lu|7
+Azar Shakoori|Mihai Beligan|6
+Ed Waller|Glenn Harvel|6
+Ed Waller|Matthew H. Kaye|6
+Glenn Harvel|John P. Froats|6
+Glenn Harvel|Matthew H. Kaye|6
+Hossam E. Gaber|Matthew H. Kaye|6
+Lixuan Lu|Matthew H. Kaye|6
+Ali Keshavarz|Ed Waller|5
+Amin Ibrahim|Miguel Vargas Martin|5
+Amin Ibrahim|Mouhcine Guennoun|5
+Anthony Waker|Brian Ikeda|5
+Anthony Waker|Ed Waller|5
+Anthony Waker|Glenn Harvel|5
+Anthony Waker|Hossam E. Gaber|5
+Anthony Waker|Igor Pioro|5
+Anthony Waker|John P. Froats|5
+Anthony Waker|Lixuan Lu|5
+Anthony Waker|Matthew H. Kaye|5
+Anthony Waker|Rachid Machrafi|5
+Brian Ikeda|Ed Waller|5
+Brian Ikeda|Glenn Harvel|5
+Brian Ikeda|Hossam E. Gaber|5
+Brian Ikeda|Igor Pioro|5
+Brian Ikeda|John P. Froats|5
+Brian Ikeda|Lixuan Lu|5
+Brian Ikeda|Rachid Machrafi|5
+Dario T. Bonetta|Julia Green-Johnson|5
+Ed Waller|Hossam E. Gaber|5
+Ed Waller|Igor Pioro|5
+Ed Waller|John P. Froats|5
+Ed Waller|Lixuan Lu|5
+Ed Waller|Rachid Machrafi|5
+Eleodor M. Nichita|Glenn Harvel|5
+Eleodor M. Nichita|Rachid Machrafi|5
+Glenn Harvel|Hossam E. Gaber|5
+Glenn Harvel|Igor Pioro|5
+Glenn Harvel|Lixuan Lu|5
+Glenn Harvel|Rachid Machrafi|5
+Hidayat Shahid|Michael F. Macleod|5
+Hossam E. Gaber|Igor Pioro|5
+Hossam E. Gaber|John P. Froats|5
+Hossam E. Gaber|Rachid Machrafi|5
+Ian P. Barker|Michael Holmes|5
+Igor Pioro|Jennifer McKellar|5
+Igor Pioro|John P. Froats|5
+Igor Pioro|Lixuan Lu|5
+Igor Pioro|Matthew H. Kaye|5
+Igor Pioro|Rachid Machrafi|5
+John P. Froats|Lixuan Lu|5
+John P. Froats|Matthew H. Kaye|5
+John P. Froats|Rachid Machrafi|5
+Kimberly Nugent|Laura A. Benninger|5
+Lixuan Lu|Rachid Machrafi|5
+Matthew H. Kaye|Rachid Machrafi|5
+Miguel Vargas Martin|Mouhcine Guennoun|5
+Ronald Hinch|Steven Downing|5
+Andrea Braithwaite|Dale Shin|4
+Annette Tavares|Mary Olaveson|4
+Anthony Waker|Eleodor M. Nichita|4
+Barry Neil|Gloria Orchard|4
+Bernadette Murphy|Ian P. Barker|4
+Brian Ikeda|Eleodor M. Nichita|4
+Connie Thurber|John Samis|4
+Connie Thurber|Ruth Simpson|4
+Ed Waller|Eleodor M. Nichita|4
+Ed Waller|Jennifer McKellar|4
+Ed Waller|Sharman Perera|4
+Eleodor M. Nichita|Hossam E. Gaber|4
+Eleodor M. Nichita|Igor Pioro|4
+Eleodor M. Nichita|John P. Froats|4
+Eleodor M. Nichita|Lixuan Lu|4
+Eleodor M. Nichita|Matthew H. Kaye|4
+Evelyn Moreau|John Samis|4
+Glenn Harvel|Jennifer McKellar|4
+Glenn Harvel|Sharman Perera|4
+Helene-Marie Goulding|Sue O'Dwyer|4
+Huiyan Wang|Jeremy Bradbury|4
+Huiyan Wang|Randy J. Fortier|4
+Ian P. Barker|Ryan Foley|4
+Jennifer McKellar|Matthew H. Kaye|4
+John Samis|Lavern Bourne|4
+John Samis|Ruth Simpson|4
+Lavern Bourne|Nancy Bergeron|4
+Adam Baran|Joshua Lowe|3
+Ali Keshavarz|Anthony Waker|3
+Ali Keshavarz|Brian Ikeda|3
+Ali Keshavarz|Glenn Harvel|3
+Ali Keshavarz|Hossam E. Gaber|3
+Ali Keshavarz|Igor Pioro|3
+Ali Keshavarz|John P. Froats|3
+Ali Keshavarz|Lixuan Lu|3
+Ali Keshavarz|Matthew H. Kaye|3
+Ali Keshavarz|Rachid Machrafi|3
+Ali Keshavarz|Vinh Quan|3
+Amin Ibrahim|Rongxing Lu|3
+Andrea Braithwaite|Ganaele Langlois|3
+Andrea Braithwaite|Roberta Buiani|3
+Andrea L. Miller|Milly Ryan-Harshman|3
+Anthony Waker|Jennifer McKellar|3
+Anthony Waker|Sharman Perera|3
+Arlene B. De La Rocha|Leslie L. Graham|3
+Arshia U. Zaidi|Liqun Cao|3
+Ayush Kumar|Evelyn Moreau|3
+Ayush Kumar|Helene-Marie Goulding|3
+Ayush Kumar|John Samis|3
+Ayush Kumar|Sue O'Dwyer|3
+Azar Shakoori|Ilona Kletskin|3
+Barry Neil|Rachid Machrafi|3
+Brian Ikeda|Jennifer McKellar|3
+Brian Ikeda|Sharman Perera|3
+Cheryl Wilson|Michael Konopaski|3
+Dale Shin|Ganaele Langlois|3
+Dale Shin|Tanner Mirrlees|3
+Dana Chorney|Leslie L. Graham|3
+Daniel Meneley|Ed Waller|3
+Daniel Meneley|Glenn Harvel|3
+Daniel Meneley|Jennifer McKellar|3
+Daniel Meneley|John P. Froats|3
+Daniel Meneley|Matthew H. Kaye|3
+David Sukhdeo|Ferdinand Jones|3
+Eleodor M. Nichita|Jennifer McKellar|3
+Eleodor M. Nichita|Sharman Perera|3
+Elita Partosoedarso|Manon Lemonde|3
+Eyhab Al-Masri|Jorge Landa|3
+Eyhab Al-Masri|Khalid A. Hafeez|3
+Faisal Qureshi|Mehrdad Tirandazian|3
+Helene LeBlanc|Kimberly Nugent|3
+Helene LeBlanc|Nelson Lafreniere|3
+Hossam E. Gaber|Jennifer McKellar|3
+Hossam E. Gaber|Kerry Morrison|3
+Hossam E. Gaber|Reza Ghafouri|3
+Hossam E. Gaber|Sharman Perera|3
+Ian P. Barker|Kevin Power|3
+Ian P. Barker|Michael Williams-Bell|3
+Igor Pioro|Reza Ghafouri|3
+Igor Pioro|Sharman Perera|3
+Ilona Kletskin|Mihai Beligan|3
+Isaac Ye|Joseph D. Macmillan|3
+Isaac Ye|Valeri Kapoustine|3
+Jennifer McKellar|John P. Froats|3
+Jennifer McKellar|Lixuan Lu|3
+Jennifer McKellar|Rachid Machrafi|3
+Jennifer McKellar|Sharman Perera|3
+Jeremy Bradbury|Randy J. Fortier|3
+Joel Stewart|Moustafa El-Gindy|3
+Joel Stewart|Reddy Bale|3
+Joel Stewart|Shahram Shahbazpanahi|3
+John P. Froats|Sharman Perera|3
+John Samis|Nancy Bergeron|3
+Joseph D. Macmillan|Valeri Kapoustine|3
+Joshua Lowe|Snezhy Neshkova|3
+Judith A. Grant|Ronald Hinch|3
+Kerry Morrison|Lixuan Lu|3
+Kevin Power|Michael Holmes|3
+Lavern Bourne|Sharon Weeks|3
+Lennart Nacke|Pejman Mirza-Babaei|3
+Lixuan Lu|Sharman Perera|3
+Lori Keilty|Nancy Papadimitriou|3
+Malcolm MacTaggart|Morden Shapiro|3
+Matthew H. Kaye|Sharman Perera|3
+Miguel Vargas Martin|Rongxing Lu|3
+Mohamed Boussoufi|Rachid Machrafi|3
+Mouhcine Guennoun|Rongxing Lu|3
+Moustafa El-Gindy|Reddy Bale|3
+Moustafa El-Gindy|Shahram Shahbazpanahi|3
+Phillip Shon|Ronald Hinch|3
+Phillip Shon|Steven Downing|3
+Rachid Machrafi|Sharman Perera|3
+Reddy Bale|Shahram Shahbazpanahi|3
+Ronald Hinch|Shahid Alvi|3
+Treisha Hylton|Wesley Crichlow|3
+Adam Baran|Shahram Heydari|2
+Adam Baran|Snezhy Neshkova|2
+Adam McPherson|Greg Chiykowski|2
+Ahmad Barari|Ali Keshavarz|2
+Ali Keshavarz|Daniel Hoornweg|2
+Ali Keshavarz|Daniel Meneley|2
+Ali Keshavarz|Ebrahim Esmailzadeh|2
+Ali Keshavarz|Eleodor M. Nichita|2
+Ali Keshavarz|Jennifer McKellar|2
+Ali Keshavarz|Kerry Morrison|2
+Ali Keshavarz|Peter Schwanke|2
+Ali Keshavarz|Reza Ghafouri|2
+Ali Keshavarz|Sharman Perera|2
+Ali Keshavarz|Yuelei Yang|2
+Alyson King|Natalie Chinsam|2
+Andrea Braithwaite|Sharon Lauricella|2
+Andrea Kirkwood|Sarah E. MacKay|2
+Andrea Kirkwood|Sean G. Forrester|2
+Andrea L. Miller|Teri Emrich|2
+Andrea Slane|Rajen Akalu|2
+Angela Davis|Patricia Munro-Gilbert|2
+Angelo DiNardo|Ayush Kumar|2
+Angelo DiNardo|Helene-Marie Goulding|2
+Angelo DiNardo|Sue O'Dwyer|2
+Ann-Louise Davidson|Nadia Naffi|2
+Annette Tavares|Kirk Hillsley|2
+Annmarie Barnes|Steven Hutchinson|2
+Annmarie Barnes|Thomas Decker|2
+Anthony Anirud|Salman Rana|2
+Anthony Anirud|Steve Redhead|2
+Anthony Waker|DAN HOORNWEG|2
+Anthony Waker|Daniel Hoornweg|2
+Anthony Waker|Daniel Meneley|2
+Anthony Waker|Harmanjit Sandhu|2
+Anthony Waker|Kerry Morrison|2
+Anthony Waker|Peter Schwanke|2
+Anthony Waker|Reza Ghafouri|2
+Arlene B. De La Rocha|Dana Chorney|2
+Arlene B. De La Rocha|Elizabeth Erwin|2
+Arlene B. De La Rocha|Fabiola Longo|2
+Arlene B. De La Rocha|Kathy Cummings|2
+Arlene B. De La Rocha|Sandra Mairs|2
+Arshia U. Zaidi|Reena Shah|2
+Arup Ganguly|Bin Chang|2
+Arup Ganguly|Jessica L. Clarke|2
+Ashfakuddin Rubel|Stephen Cheung|2
+Athina Hall|Cheryl Wilson|2
+Athina Hall|John Friedlan|2
+Azar Shakoori|Mehran Ebrahimi|2
+Bahram Zahir-Azami|Maha S. Elnaggar|2
+Barbara Perry|Daved Muttart|2
+Bernadette Murphy|Julian Daligadu|2
+Bernadette Murphy|Kevin Power|2
+Bernadette Murphy|Nicholas Antony|2
+Bernadette Murphy|Ryan Foley|2
+Bill Kapralos|Rom Di Prisco|2
+Bin Chang|Jessica L. Clarke|2
+Brad Easton|Omer Yukseker|2
+Brian Ikeda|DAN HOORNWEG|2
+Brian Ikeda|Daniel Hoornweg|2
+Brian Ikeda|Daniel Meneley|2
+Brian Ikeda|Kerry Morrison|2
+Brian Ikeda|Peter Schwanke|2
+Brian Ikeda|Reza Ghafouri|2
+Brian Ikeda|Robin Secord|2
+Bruce Curran|Daved Muttart|2
+Cecilia Hageman|Helene LeBlanc|2
+Cheryl E. Lockhart|Leslie L. Graham|2
+Cheryl E. Lockhart|Marianne Cochrane|2
+Cheryl E. Lockhart|Nancy Menagh|2
+Cheryl Wilson|Ferdinand Jones|2
+Cheryl Wilson|John Friedlan|2
+Chinmay Jain|Ferdinand Jones|2
+Chinmay Jain|Samuel Alagurajah|2
+Chinmay Jain|Tony Mayadunne|2
+Chirag Surti|Karthik Sankaranarayanan|2
+Chris Little|Faisal Qureshi|2
+Chris Little|Mehrdad Tirandazian|2
+Christopher M. Collins|Lennart Nacke|2
+Christopher M. Collins|Mark W. Green|2
+Christopher O'Connor|Phillip Shon|2
+Christopher O'Connor|Ronald Hinch|2
+Christopher O'Connor|Shahid Alvi|2
+Christopher O'Connor|Steven Downing|2
+Christopher Zerebecki|Stephen Rose|2
+Christopher Zerebecki|Timothy Claydon|2
+Christopher Zerebecki|Vera Barton|2
+Colin McDonald|Yuelei Yang|2
+Connie Thurber|Evelyn Moreau|2
+Cristen Hucaluk|Jan Matejovic|2
+DAN HOORNWEG|Ed Waller|2
+DAN HOORNWEG|Eleodor M. Nichita|2
+DAN HOORNWEG|Glenn Harvel|2
+DAN HOORNWEG|Hossam E. Gaber|2
+DAN HOORNWEG|Igor Pioro|2
+DAN HOORNWEG|Jennifer McKellar|2
+DAN HOORNWEG|John P. Froats|2
+DAN HOORNWEG|Lixuan Lu|2
+DAN HOORNWEG|Matthew H. Kaye|2
+DAN HOORNWEG|Rachid Machrafi|2
+DAN HOORNWEG|Sharman Perera|2
+Dale Shin|Jonathan Obar|2
+Dale Shin|Natalie Chinsam|2
+Dale Shin|Rob Halpin|2
+Dale Shin|Sharon Lauricella|2
+Dana Chorney|Elaine Salmers|2
+Dana Chorney|Elita Partosoedarso|2
+Dana Chorney|Kadeen N. Briscoe|2
+Daniel Hoornweg|Daniel Meneley|2
+Daniel Hoornweg|Ed Waller|2
+Daniel Hoornweg|Eleodor M. Nichita|2
+Daniel Hoornweg|Glenn Harvel|2
+Daniel Hoornweg|Hossam E. Gaber|2
+Daniel Hoornweg|Igor Pioro|2
+Daniel Hoornweg|Jennifer McKellar|2
+Daniel Hoornweg|John P. Froats|2
+Daniel Hoornweg|Lixuan Lu|2
+Daniel Hoornweg|Matthew H. Kaye|2
+Daniel Hoornweg|Rachid Machrafi|2
+Daniel Hoornweg|Reddy Bale|2
+Daniel Hoornweg|Sharman Perera|2
+Daniel Meneley|Eleodor M. Nichita|2
+Daniel Meneley|Hossam E. Gaber|2
+Daniel Meneley|Igor Pioro|2
+Daniel Meneley|Lixuan Lu|2
+Daniel Meneley|Rachid Machrafi|2
+Daniel Meneley|Sharman Perera|2
+Dario T. Bonetta|George Stamatiou|2
+Dario T. Bonetta|Sean G. Forrester|2
+Daved Muttart|Jen Rinaldi|2
+Daved Muttart|Sasha Baglay|2
+David Robertson|Laura A. Benninger|2
+David Sukhdeo|John Friedlan|2
+Dhavide A. Aruliah|Greg Lewis|2
+Dhavide A. Aruliah|Mehran Ebrahimi|2
+Donna Simpson|Kathy Cummings|2
+Ed Waller|Kerry Morrison|2
+Ed Waller|Peter Schwanke|2
+Ed Waller|Reza Ghafouri|2
+Elaine Salmers|Elita Partosoedarso|2
+Eleodor M. Nichita|Paul Yielder|2
+Elita Partosoedarso|Holly Taggart|2
+Elita Partosoedarso|Kirk Hillsley|2
+Elita Partosoedarso|Nicole Campbell|2
+Elita Partosoedarso|Robert Balogh|2
+Elita Partosoedarso|Shilpa Dogra|2
+Elita Partosoedarso|Toba Bryant|2
+Elizabeth Erwin|Leslie L. Graham|2
+Fabiola Longo|Leslie L. Graham|2
+Faisal Qureshi|Huiyan Wang|2
+Faisal Qureshi|Jeremy Bradbury|2
+Ferdinand Jones|Greg Chiykowski|2
+Ferdinand Jones|John Friedlan|2
+Ferdinand Jones|Samuel Alagurajah|2
+Ferdinand Jones|Tony Mayadunne|2
+Fiore Sicoly|Ronn Young|2
+Franco Gaspari|Joseph D. Macmillan|2
+Franco Gaspari|Tome Kosteski|2
+Franco Gaspari|Valeri Kapoustine|2
+Francois Desjardins|Jia Li|2
+George Stamatiou|Mary Olaveson|2
+Ghaus M. Rizvi|Sayyed Ali Hosseini|2
+Glenn Harvel|Kerry Morrison|2
+Glenn Harvel|Peter Schwanke|2
+Glenn Harvel|Reza Ghafouri|2
+Greg Lewis|Pietro-Luciano Buono|2
+Hannah Scott|Ronald Hinch|2
+Helene LeBlanc|Laura A. Benninger|2
+Helene-Marie Goulding|John Samis|2
+Helene-Marie Goulding|Lavern Bourne|2
+Hendrick De Haan|Rupinder Brar|2
+Hendrick De Haan|Zahraa Ibrahim|2
+Hidayat Shahid|Sayyed Ali Hosseini|2
+Hilde Zitzelsberger|Sue Coffey|2
+Holly Taggart|Jennifer Avery|2
+Holly Taggart|Otto Sanchez|2
+Hossam E. Gaber|Peter Schwanke|2
+Huiyan Wang|Jorge Landa|2
+Ian P. Barker|Julian Daligadu|2
+Ian P. Barker|Nicholas Antony|2
+Ian P. Barker|Shilpa Dogra|2
+Ian P. Barker|Simon Wang|2
+Igor Pioro|Kerry Morrison|2
+Igor Pioro|Peter Schwanke|2
+Ilona Kletskin|Paula Dicato|2
+Isaac Ye|Zahraa Ibrahim|2
+Jackie Simkin|Zhenfeng Ma|2
+Jan Matejovic|Lori E. Van Belle|2
+Jason Chung|Kirk Hillsley|2
+Jean-Paul Desaulniers|Julia Green-Johnson|2
+Jen Rinaldi|Natalie Oman|2
+Jen Rinaldi|Rachel Ariss|2
+Jenna Jacobson|Rob Halpin|2
+Jenna N. Lasky|Michael Konopaski|2
+Jennifer Avery|Otto Sanchez|2
+Jennifer McKellar|Reza Ghafouri|2
+Joel Stewart|Ramiro Liscano|2
+Joel Stewart|Svetlana Novak|2
+John P. Froats|Kerry Morrison|2
+John P. Froats|Peter Schwanke|2
+John P. Froats|Reza Ghafouri|2
+John Samis|Sue O'Dwyer|2
+John W. Easton|Yuri Bolshan|2
+Jordanne Christie|Kathleen L. Flynn|2
+Jorge Landa|Ken Pu|2
+Jorge Landa|Mehrdad Tirandazian|2
+Jorge Landa|Randy J. Fortier|2
+Joseph D. Macmillan|Peter Berg|2
+Joseph D. Macmillan|Zahraa Ibrahim|2
+Judith A. Grant|Olga Marques|2
+Judith A. Grant|Phillip Shon|2
+Judith A. Grant|Steven Downing|2
+Judith A. Grant|Walter Dekeseredy|2
+Julie Thorpe|Rajen Akalu|2
+Kari Kumar|Nicole Campbell|2
+Kathleen Smith|Kerry Johnson|2
+Kathy Cummings|Leslie L. Graham|2
+Kathy Cummings|Maria Wallace|2
+Kathy Cummings|Patricia Munro-Gilbert|2
+Kerry Morrison|Matthew H. Kaye|2
+Kerry Morrison|Rachid Machrafi|2
+Kevin Power|Nicholas Antony|2
+Kimberly Nugent|Nelson Lafreniere|2
+Kristy Buccieri|Salinda Horgan|2
+Kristy Buccieri|Steven Downing|2
+Lavern Bourne|Sue O'Dwyer|2
+Leigh Harkins|Ronn Young|2
+Liqun Cao|Reena Shah|2
+Lixuan Lu|Peter Schwanke|2
+Lixuan Lu|Reza Ghafouri|2
+Lori E. Van Belle|Omer Yukseker|2
+Lori Keilty|Ron McKelvey|2
+Lori Keilty|Sheila Rhodes|2
+Malcolm MacTaggart|Michael Konopaski|2
+Manon Lemonde|Nicole Campbell|2
+Manon Lemonde|Robert Balogh|2
+Manon Lemonde|Shilpa Dogra|2
+Manon Lemonde|Toba Bryant|2
+Maria Wallace|Patricia Munro-Gilbert|2
+Masoud Farzam|Mikael Eklund|2
+Masoud Farzam|Min Dong|2
+Masoud Farzam|Namdar Saniei|2
+Matthew H. Kaye|Peter Schwanke|2
+Matthew H. Kaye|Reza Ghafouri|2
+Matthew H. Kaye|Robin Secord|2
+Matthew Jelavic|Mehdi Hossein Nejad|2
+Maurice Tomlinson|Steven Hutchinson|2
+Mehdi Hossein Nejad|Terry Wu|2
+Mehran Ebrahimi|Sean Bohun|2
+Mehrdad Tirandazian|Randy J. Fortier|2
+Michael F. Macleod|Sayyed Ali Hosseini|2
+Michael Holmes|Michael Williams-Bell|2
+Michael Holmes|Simon Wang|2
+Michael J. Bennett|Vijay Sood|2
+Michael L. Lindsay|Rajen Akalu|2
+Michael L. Lindsay|Stan Benda|2
+Michael Mueller|Ronn Young|2
+Milly Ryan-Harshman|Sascha Tuuha|2
+Milly Ryan-Harshman|Teri Emrich|2
+Molly Dragiewicz|Olga Marques|2
+Molly Dragiewicz|Steven Downing|2
+Molly Dragiewicz|Walter Dekeseredy|2
+Moustafa El-Gindy|Ramiro Liscano|2
+Moustafa El-Gindy|Svetlana Novak|2
+Murat Aydin|Yuelei Yang|2
+Nadia Jagar|Paul Yielder|2
+Nancy Papadimitriou|Ron McKelvey|2
+Nancy Papadimitriou|Sheila Rhodes|2
+Natalie Oman|Rachel Ariss|2
+Olga Marques|Ronald Hinch|2
+Olga Marques|Steven Downing|2
+Olga Marques|Tyler Frederick|2
+Paula Dicato|Ronald Bell|2
+Peter Schwanke|Rachid Machrafi|2
+Peter Schwanke|Reza Ghafouri|2
+Phillip Shon|Shahid Alvi|2
+Pietro-Luciano Buono|Sean Bohun|2
+Rachel Ariss|Salman Rana|2
+Rachid Machrafi|Reza Ghafouri|2
+Rajen Akalu|Stan Benda|2
+Ramiro Liscano|Reddy Bale|2
+Ramiro Liscano|Shahram Shahbazpanahi|2
+Ramiro Liscano|Svetlana Novak|2
+Ramiro Liscano|Ying Zhu|2
+Reddy Bale|Svetlana Novak|2
+Reza Ghafouri|Sharman Perera|2
+Rhona Berengut|Serena G. Sohrab|2
+Robert Balogh|Shilpa Dogra|2
+Robert Balogh|Toba Bryant|2
+Ronald Hinch|Walter Dekeseredy|2
+Rupinder Brar|Valeri Kapoustine|2
+Rupinder Brar|Zahraa Ibrahim|2
+Salinda Horgan|Steven Downing|2
+Salman Rana|Steve Redhead|2
+Samuel Alagurajah|Tony Mayadunne|2
+Sayyed Ali Hosseini|Vinh Quan|2
+Shahid Alvi|Steven Downing|2
+Shahram Shahbazpanahi|Svetlana Novak|2
+Shilpa Dogra|Toba Bryant|2
+Stephen Rose|Timothy Claydon|2
+Stephen Rose|Vera Barton|2
+Steven Downing|Walter Dekeseredy|2
+Timothy Claydon|Vera Barton|2
+Tome Kosteski|Valeri Kapoustine|2
+Valeri Kapoustine|Zahraa Ibrahim|2
+Aaron J. Mitchell|Andrea Slane|1
+Aaron J. Mitchell|Fannie Dimitriadis|1
+Aaron J. Mitchell|Rajen Akalu|1
+Aaron Moore|Amir Farmanesh|1
+Aaron Moore|Graham D. Wight|1
+Aaron Moore|Rob Halpin|1
+Aaron Moore|Stan Maclellan|1
+Abbee Corb|Neil Orlowsky|1
+Abbee Corb|Olga Marques|1
+Abbee Corb|Steven Hutchinson|1
+Abdel Saleh|Ali Grami|1
+Abdel Saleh|Ying Wang|1
+Abdel Saleh|Ying Zhu|1
+Adam Baran|Ramzanali Jaffer|1
+Adam Ellis|Adelina Iftene|1
+Adam Ellis|Annmarie Barnes|1
+Adam Ellis|Ronald Hinch|1
+Adam McPherson|Cheryl Wilson|1
+Adam McPherson|Michael Konopaski|1
+Adelina Iftene|Annmarie Barnes|1
+Adelina Iftene|Ronald Hinch|1
+Ahmad Barari|Atef Mohany|1
+Ahmad Barari|Mohamed Z. Youssef|1
+Ahmad Barari|Ramiro Liscano|1
+Ahmad Barari|Shahryar Rahnamayan|1
+Ahmad Barari|Walid M. Ibrahim|1
+Ahmad Barari|Ying Wang|1
+Ahmad Barari|Yuelei Yang|1
+Ahmed Hosny|Mohamed Z. Youssef|1
+Al-Karim Samnani|Lauren Canzius|1
+Ali Grami|Ali Tizghadam|1
+Ali Grami|Kemal Ozdemir|1
+Ali Keshavarz|Atef Mohany|1
+Ali Keshavarz|Bamdad Lessani|1
+Ali Keshavarz|DAN HOORNWEG|1
+Ali Keshavarz|George Bereznai|1
+Ali Keshavarz|Gloria Orchard|1
+Ali Keshavarz|Hossam Kishawy|1
+Ali Keshavarz|Michael Dymarski|1
+Ali Keshavarz|Payam Rahimi|1
+Ali Keshavarz|Sayyed Ali Hosseini|1
+Allyson Eamer|Janette Hughes|1
+Alyson King|Amanda Robinson|1
+Alyson King|Antonie Scholtz|1
+Alyson King|Gary Genosko|1
+Alyson King|Kristen Boujos|1
+Alyson King|Lisa Tomlinson|1
+Alyson King|Margaret Sledziewski|1
+Aman Gebru|Maurice Tomlinson|1
+Amanda Couture-Carron|Arshia U. Zaidi|1
+Amanda Couture-Carron|Liqun Cao|1
+Amanda Couture-Carron|Marie L. Polgar-Matthews|1
+Amanda Couture-Carron|Reena Shah|1
+Amanda J. Wendelgass|Amrinder S. Brar|1
+Amanda J. Wendelgass|Antonie Scholtz|1
+Amanda J. Wendelgass|Iain McPherson|1
+Amanda J. Wendelgass|Jenna Jacobson|1
+Amanda J. Wendelgass|Kiri S. Lutchman|1
+Amanda J. Wendelgass|Kristen Boujos|1
+Amanda J. Wendelgass|Melissa Mastrangelo|1
+Amanda J. Wendelgass|Susan M. Scott|1
+Amanda Laird|Cheryl E. Lockhart|1
+Amanda Laird|Dorothea L. Service|1
+Amanda Laird|Elaine Salmers|1
+Amanda Laird|Elizabeth Erwin|1
+Amanda Laird|Jillian Barnes|1
+Amanda Laird|Kathy Cummings|1
+Amanda Laird|Leslie L. Graham|1
+Amanda Laird|Maria Wallace|1
+Amanda Laird|Nancy Menagh|1
+Amanda Laird|Patricia Munro-Gilbert|1
+Amanda Robinson|Antonie Scholtz|1
+Amanda Robinson|Margaret Sledziewski|1
+Amanda Robinson|Molly Dragiewicz|1
+Amanda Robinson|Natalie Chinsam|1
+Amanda Robinson|Walter Dekeseredy|1
+Ambrose Samulski|Peter Berg|1
+Ambrose Samulski|Rupinder Brar|1
+Amin Ibrahim|Andrey Zarin|1
+Amin Ibrahim|Bill Kapralos|1
+Amin Ibrahim|Eyhab Al-Masri|1
+Amin Ibrahim|Garrett M. Hayes|1
+Amin Ibrahim|Patrick Hung|1
+Amin Ibrahim|Slawomir Kmiec|1
+Amin Mannani|Lixuan Lu|1
+Amir Farmanesh|Graham D. Wight|1
+Amir Farmanesh|Rob Halpin|1
+Amir Farmanesh|Stan Maclellan|1
+Amrinder S. Brar|Antonie Scholtz|1
+Amrinder S. Brar|Iain McPherson|1
+Amrinder S. Brar|Jenna Jacobson|1
+Amrinder S. Brar|Kiri S. Lutchman|1
+Amrinder S. Brar|Kristen Boujos|1
+Amrinder S. Brar|Melissa Mastrangelo|1
+Amrinder S. Brar|Susan M. Scott|1
+Amy Leach|Fiore Sicoly|1
+Amy Leach|Michael Mueller|1
+Amy Leach|Ronn Young|1
+Anatoli Chkrebtii|Ashley M. Thompson|1
+Anatoli Chkrebtii|Brad Easton|1
+Anatoli Chkrebtii|Zahraa Ibrahim|1
+Andrea Braithwaite|Jonathan Obar|1
+Andrea Braithwaite|Natalie Chinsam|1
+Andrea Braithwaite|Susan M. Scott|1
+Andrea Braithwaite|Tanner Mirrlees|1
+Andrea Braithwaite|Teresa Pierce|1
+Andrea Kirkwood|Annette Tavares|1
+Andrea Kirkwood|Cecilia Hageman|1
+Andrea Kirkwood|Dario T. Bonetta|1
+Andrea Kirkwood|Douglas Holdway|1
+Andrea Kirkwood|George Stamatiou|1
+Andrea Kirkwood|Janice Strap|1
+Andrea Kirkwood|Jean-Paul Desaulniers|1
+Andrea Kirkwood|Julia Green-Johnson|1
+Andrea Kirkwood|Mary Olaveson|1
+Andrea Kirkwood|Yuri Bolshan|1
+Andrea L. Miller|Christina R. Vaillancourt|1
+Andrea L. Miller|JoAnne Arcand|1
+Andrea Mars|Hilde Zitzelsberger|1
+Andrea Mars|Kelly Kay|1
+Andrea Mars|Laura Boyko|1
+Andrea Mars|Lorian Hardcastle|1
+Andrea Mars|Nadia Jagar|1
+Andrea Mars|Sue Coffey|1
+Andrea Slane|Fannie Dimitriadis|1
+Andrea Slane|Jen Rinaldi|1
+Andrea Slane|Natalie Oman|1
+Andrea Slane|Rachel Ariss|1
+Andrea Slane|Steve Redhead|1
+Andrew Hogue|Andrey Zarin|1
+Andrew Hogue|Daniel S. Buckstein|1
+Andrew Hogue|Fletcher Lu|1
+Andrew Hogue|Saad R. Khattak|1
+Andrew Muncaster|Cheryl E. Lockhart|1
+Andrew Muncaster|Dale Shin|1
+Andrew Muncaster|Gordon Lee|1
+Andrew Muncaster|Kevin J. Baker|1
+Andrew Muncaster|Marianne Cochrane|1
+Andrew Muncaster|Milly Ryan-Harshman|1
+Andrew Muncaster|Nancy Menagh|1
+Andrew Muncaster|Sascha Tuuha|1
+Andrey Zarin|Fletcher Lu|1
+Andrey Zarin|Garrett M. Hayes|1
+Andrey Zarin|Hendrick De Haan|1
+Andrey Zarin|Isaac Tamblyn|1
+Andrey Zarin|Isaac Ye|1
+Andrey Zarin|Joseph D. Macmillan|1
+Andrey Zarin|Peter Berg|1
+Andrey Zarin|Rupinder Brar|1
+Andrey Zarin|Sergiy Boyko|1
+Andrey Zarin|Valeri Kapoustine|1
+Andrey Zarin|Zahraa Ibrahim|1
+Angela Brathwaite|Donna Sherman|1
+Angela Brathwaite|Kathy Lavis|1
+Angela Brathwaite|Manon Lemonde|1
+Angela Brathwaite|Oluwabukola Salami|1
+Angela Brathwaite|Sandra Mairs|1
+Angela Davis|Dana Chorney|1
+Angela Davis|Donna Simpson|1
+Angela Davis|Elaine Salmers|1
+Angela Davis|Elita Partosoedarso|1
+Angela Davis|Fabiola Longo|1
+Angela Davis|Kadeen N. Briscoe|1
+Angela Davis|Kathy Cummings|1
+Angela Davis|Kathy Lavis|1
+Angela Davis|Leslie L. Graham|1
+Angela Davis|Maria Wallace|1
+Angela Davis|Nancy Lawrence|1
+Angela Davis|Veronique Mcallister|1
+Angela Kellett|Jane M. Bowen|1
+Angela Kellett|John Friedlan|1
+Angelo DiNardo|Maureen Wideman|1
+Ani Abdalyan|Michael L. Lindsay|1
+Ani Abdalyan|Rajen Akalu|1
+Ani Abdalyan|Stan Benda|1
+Ann Lesage|Stacey Taylor|1
+Ann Lesage|Zahra Punja|1
+Anna Natoli|Ian Morrison|1
+Anna Natoli|Judith A. Grant|1
+Anna Natoli|Lisa Tomlinson|1
+Anna Natoli|Liza A. Arnason|1
+Anna Natoli|Ronn Young|1
+Anna Natoli|Timothy Macneill|1
+Anna Yashkina|Fiore Sicoly|1
+Anna Yashkina|Marie L. Polgar-Matthews|1
+Anna Yashkina|Meaghan Savage|1
+Anna Yashkina|Olga Marques|1
+Anna Yashkina|Tyler Frederick|1
+Annette Tavares|George Stamatiou|1
+Annette Tavares|Milly Ryan-Harshman|1
+Annette Tavares|Sylvie Bardin|1
+Annmarie Barnes|Daved Muttart|1
+Annmarie Barnes|Graham D. Wight|1
+Annmarie Barnes|Kristy Buccieri|1
+Annmarie Barnes|Micah Wagenberg|1
+Annmarie Barnes|Nicole M. Myers|1
+Annmarie Barnes|Patrik Olsson|1
+Annmarie Barnes|Ronald Hinch|1
+Annmarie Barnes|Scott M. Aquanno|1
+Annmarie Barnes|Shahid Alvi|1
+Anthony Anirud|Charles Ewert|1
+Anthony Anirud|Robyn Jacobson|1
+Anthony Anirud|Sasha Baglay|1
+Anthony Anirud|Thomas McMorrow|1
+Anthony Anirud|Treisha Hylton|1
+Anthony Waker|George Bereznai|1
+Anthony Waker|Gloria Orchard|1
+Anthony Waker|Michael Dymarski|1
+Anthony Waker|Robin Secord|1
+Antonie Scholtz|Iain McPherson|1
+Antonie Scholtz|Jenna Jacobson|1
+Antonie Scholtz|Kiri S. Lutchman|1
+Antonie Scholtz|Kristen Boujos|1
+Antonie Scholtz|Margaret Sledziewski|1
+Antonie Scholtz|Melissa Mastrangelo|1
+Antonie Scholtz|Natalie Chinsam|1
+Antonie Scholtz|Susan M. Scott|1
+Arlene B. De La Rocha|Brenda Prouty|1
+Arlene B. De La Rocha|Cathy Crowe|1
+Arlene B. De La Rocha|Donna Simpson|1
+Arlene B. De La Rocha|Gail Lindsay|1
+Arlene B. De La Rocha|Jacqueline Limoges|1
+Arlene B. De La Rocha|Jennifer M. Abbass Dick|1
+Arlene B. De La Rocha|Kadeen N. Briscoe|1
+Arlene B. De La Rocha|Mariana Markovic|1
+Arlene B. De La Rocha|Tamara Dus|1
+Arlene B. De La Rocha|Victoria L. Smye|1
+Arlene B. De La Rocha|Wendy Stanyon|1
+Arshia U. Zaidi|Fiore Sicoly|1
+Arshia U. Zaidi|Marie L. Polgar-Matthews|1
+Arshia U. Zaidi|Nicole M. Myers|1
+Arup Ganguly|Chinmay Jain|1
+Arup Ganguly|Hui Zhu|1
+Arup Ganguly|Ryan Riordan|1
+Arup Ganguly|Tony Mayadunne|1
+Ashley M. Thompson|Meghann Lloyd|1
+Ashley Matchett|Cecilia Hageman|1
+Ashley Matchett|Helene LeBlanc|1
+Ashley Matchett|Kimberly Nugent|1
+Ashley Matchett|Kirk Hillsley|1
+Ashley Matchett|Laura A. Benninger|1
+Ashley Matchett|Sylvie Bardin|1
+Asifa Aamir|David Agnew|1
+Asifa Aamir|Jennifer Percival|1
+Asifa Aamir|Rishikesan Kamaleswaran|1
+Asifa Aamir|Stephen Marsh|1
+Atef Mohany|Mohamed Z. Youssef|1
+Atef Mohany|Payam Rahimi|1
+Atef Mohany|Ramiro Liscano|1
+Atef Mohany|Sayyed Ali Hosseini|1
+Atef Mohany|Walid M. Ibrahim|1
+Atef Mohany|Ying Wang|1
+Atef Mohany|Yuping He|1
+Athina Hall|Christopher Zerebecki|1
+Athina Hall|Denise Cook|1
+Athina Hall|Jane M. Bowen|1
+Athina Hall|Jenna N. Lasky|1
+Athina Hall|Michael Konopaski|1
+Athina Hall|Stephen Rose|1
+Athina Hall|Timothy Claydon|1
+Athina Hall|Vera Barton|1
+Ayush Kumar|Connie Thurber|1
+Ayush Kumar|Lavern Bourne|1
+Ayush Kumar|Maureen Wideman|1
+Ayush Kumar|Nancy Bergeron|1
+Ayush Kumar|Ruth Simpson|1
+Azar Shakoori|Dhavide A. Aruliah|1
+Azar Shakoori|Greg Lewis|1
+Azar Shakoori|Isaac Ye|1
+Azar Shakoori|Kathleen Smith|1
+Azar Shakoori|Lennaert Van Veen|1
+Azar Shakoori|Nicholas Faulkner|1
+Azar Shakoori|Parnesh Grover|1
+Azar Shakoori|Paula Dicato|1
+Azar Shakoori|Sean Bohun|1
+Aziz Douai|Carla Cesaroni|1
+Aziz Douai|Dale Shin|1
+Aziz Douai|Rob Halpin|1
+Aziz Douai|Ronald Hinch|1
+Aziz Douai|Steven Downing|1
+Babak Pourziaei|Ilona Kletskin|1
+Babak Pourziaei|Qing H. Li|1
+Bahram Zahir-Azami|Shahryar Rahnamayan|1
+Barbara Perry|Christopher O'Connor|1
+Barbara Perry|Hannah Scott|1
+Barbara Perry|Judith A. Grant|1
+Barbara Perry|Liqun Cao|1
+Barbara Perry|Maurice Tomlinson|1
+Barbara Perry|Phillip Shon|1
+Barbara Perry|Ronald Hinch|1
+Barbara Perry|Shahid Alvi|1
+Barbara Perry|Steven Downing|1
+Barbara Perry|Steven Hutchinson|1
+Barbara Perry|Treisha Hylton|1
+Barbara Perry|Wesley Crichlow|1
+Benjamin Rouben|Eleodor M. Nichita|1
+Benjamin Rouben|Eric Jelinski|1
+Benjamin Rouben|Joseph D. Macmillan|1
+Bernadette Murphy|Jessica Bosse|1
+Bernadette Murphy|Jessica Salt|1
+Bernadette Murphy|Matthew W. Follett|1
+Bernadette Murphy|Michael Holmes|1
+Bernadette Murphy|Shilpa Dogra|1
+Bernadette Murphy|Steven Lester|1
+Bill Kapralos|Brian Cullen|1
+Bill Kapralos|Eyhab Al-Masri|1
+Bill Kapralos|Miguel Vargas Martin|1
+Bill Kapralos|Mouhcine Guennoun|1
+Bill Kapralos|Richard Pazzi|1
+Bill Kapralos|Shakil Khan|1
+Bin Chang|Hui Zhu|1
+Bin Chang|Shantanu Dutta|1
+Brad Easton|Franco Gaspari|1
+Brenda Gamble|Clemon George|1
+Brenda Gamble|Jennifer Leo|1
+Brenda Gamble|Kathleen Smith|1
+Brenda Gamble|Lisa Kitchen|1
+Brenda Prouty|Dana Chorney|1
+Brenda Prouty|Elizabeth Erwin|1
+Brenda Prouty|Kadeen N. Briscoe|1
+Brenda Prouty|Leslie L. Graham|1
+Brent Lewis|Reza Ghafouri|1
+Brett W. Murphy|Ying Jiang|1
+Brian Cullen|Rom Di Prisco|1
+Brian Ikeda|George Bereznai|1
+Brian Ikeda|Gloria Orchard|1
+Brian Ikeda|Michael Dymarski|1
+Bruce Curran|Jen Rinaldi|1
+Bruce Curran|Sasha Baglay|1
+Calin Zamfirescu|Rami El-Emam|1
+Calin Zamfirescu|Sayyed Ali Hosseini|1
+Carla Cesaroni|Jason Demers|1
+Carla Cesaroni|Michael Perkins|1
+Carla Cesaroni|Ronald Hinch|1
+Carla Cesaroni|Shahid Alvi|1
+Carla Cesaroni|Steven Downing|1
+Carol Demille|Cheryl E. Lockhart|1
+Carol Demille|Dana Chorney|1
+Carol Demille|Elaine Salmers|1
+Carol Demille|Elita Partosoedarso|1
+Carol Demille|Leslie L. Graham|1
+Carol Demille|Marianne Cochrane|1
+Carol Demille|Treva Job|1
+Caroline Barakat-Haddad|Pierre Cote|1
+Carolyn McGregor|Jennifer Percival|1
+Carolyn McGregor|Nadja M. Bressan|1
+Cathy Crowe|Elizabeth Erwin|1
+Cathy Crowe|Gail Lindsay|1
+Cathy Crowe|Jacqueline Limoges|1
+Cathy Crowe|Jennifer M. Abbass Dick|1
+Cathy Crowe|Mariana Markovic|1
+Cathy Crowe|Tamara Dus|1
+Cathy Crowe|Victoria L. Smye|1
+Cathy Crowe|Wendy Stanyon|1
+Cecilia Hageman|Dario T. Bonetta|1
+Cecilia Hageman|Douglas Holdway|1
+Cecilia Hageman|Janice Strap|1
+Cecilia Hageman|Jean-Paul Desaulniers|1
+Cecilia Hageman|Julia Green-Johnson|1
+Cecilia Hageman|Sean G. Forrester|1
+Cecilia Hageman|Yuri Bolshan|1
+Charissa Cordon|Deborah Devitt|1
+Charissa Cordon|Manon Lemonde|1
+Charissa Cordon|Simonne Simon|1
+Charissa Cordon|Yvette Dalrymple|1
+Charles Ewert|Robyn Jacobson|1
+Cheryl E. Lockhart|Dana Chorney|1
+Cheryl E. Lockhart|Dorothea L. Service|1
+Cheryl E. Lockhart|Elaine Salmers|1
+Cheryl E. Lockhart|Elita Partosoedarso|1
+Cheryl E. Lockhart|Elizabeth Erwin|1
+Cheryl E. Lockhart|Jillian Barnes|1
+Cheryl E. Lockhart|Milly Ryan-Harshman|1
+Cheryl E. Lockhart|Sascha Tuuha|1
+Cheryl E. Lockhart|Treva Job|1
+Cheryl Wilson|Chinmay Jain|1
+Cheryl Wilson|David Sukhdeo|1
+Cheryl Wilson|Denise Cook|1
+Cheryl Wilson|Greg Chiykowski|1
+Cheryl Wilson|Jenna N. Lasky|1
+Cheryl Wilson|Samuel Alagurajah|1
+Cheryl Wilson|Tony Mayadunne|1
+Chinmay Jain|Greg Chiykowski|1
+Chinmay Jain|Ryan Riordan|1
+Chinmay Jain|Samir Saadi|1
+Chris Little|Danny Papagiannis|1
+Chris Little|John Daniel|1
+Christian Arca|Wei Shi|1
+Christina R. Vaillancourt|Milly Ryan-Harshman|1
+Christina R. Vaillancourt|Teri Emrich|1
+Christine Gordon|Seija Kromm|1
+Christopher Carver|Joshua Lowe|1
+Christopher Carver|Julie Thorpe|1
+Christopher M. Collins|Eyhab Al-Masri|1
+Christopher M. Collins|Faisal Qureshi|1
+Christopher M. Collins|Jaroslaw Szlichta|1
+Christopher M. Collins|Khalil Abuosba|1
+Christopher M. Collins|Lisa Kosh|1
+Christopher M. Collins|Luis A. Zarrabeitia Gomez|1
+Christopher M. Collins|Mehrdad Tirandazian|1
+Christopher M. Collins|Randy J. Fortier|1
+Christopher O'Connor|Daved Muttart|1
+Christopher O'Connor|Hannah Scott|1
+Christopher O'Connor|Judith A. Grant|1
+Christopher O'Connor|Molly Dragiewicz|1
+Christopher O'Connor|Olga Marques|1
+Christopher O'Connor|Sasha Baglay|1
+Christopher O'Connor|Tyler Frederick|1
+Christopher O'Connor|Walter Dekeseredy|1
+Christopher O'Connor|Wesley Crichlow|1
+Clemon George|Elita Partosoedarso|1
+Clemon George|Jennifer Leo|1
+Clemon George|Manon Lemonde|1
+Clemon George|Mika L. Nonoyama|1
+Clemon George|Nicole Campbell|1
+Clemon George|Wally Bartfay|1
+Clemon George|Yury Cheryachukin|1
+Colin McDonald|Dan Zhang|1
+Colin McDonald|Martin Agelin-Chaab|1
+Colin McDonald|Rami El-Emam|1
+Colin McDonald|Reza Ghafouri|1
+Colin McDonald|Yuping He|1
+Colin McDonald|Zhen Gao|1
+Colin Soutar|Khalil El-Khatib|1
+Connie Thurber|Deborah Harrison|1
+Connie Thurber|Helene-Marie Goulding|1
+Connie Thurber|Lavern Bourne|1
+Connie Thurber|Mikael Khan|1
+Connie Thurber|Nancy Bergeron|1
+Connie Thurber|Sue O'Dwyer|1
+Cristen Hucaluk|Gillian Goring|1
+Cristen Hucaluk|Lori E. Van Belle|1
+Cristen Hucaluk|Monica Sauer|1
+Cristen Hucaluk|Nelson Lafreniere|1
+Cristen Hucaluk|Omer Yukseker|1
+Cristina M. Banica|Rupinder Brar|1
+Cristina M. Banica|Valeri Kapoustine|1
+Cuiping Chen|Jackie Simkin|1
+Cuiping Chen|Salma Karray|1
+Cuiping Chen|Terry Wu|1
+DAN HOORNWEG|Daniel Hoornweg|1
+DAN HOORNWEG|Daniel Meneley|1
+DAN HOORNWEG|Michael Dymarski|1
+DAN HOORNWEG|Peter Schwanke|1
+DAN HOORNWEG|Reza Ghafouri|1
+Dale Shin|Gordon Lee|1
+Dale Shin|Kevin J. Baker|1
+Dale Shin|Kristy Buccieri|1
+Dale Shin|Roberta Buiani|1
+Dale Shin|Tara Brabazon|1
+Dale Shin|Thomas Decker|1
+Dan Zhang|Zhen Gao|1
+Dana Chorney|Donna Simpson|1
+Dana Chorney|Elizabeth Erwin|1
+Dana Chorney|Kathy Cummings|1
+Dana Chorney|Marianne Cochrane|1
+Dana Chorney|Sandra Mairs|1
+Dana Chorney|Treva Job|1
+Daniel Benzimra|Diana Petrarca|1
+Daniel Hoornweg|George Bereznai|1
+Daniel Hoornweg|Kerry Morrison|1
+Daniel Hoornweg|Michael Dymarski|1
+Daniel Hoornweg|Peter Schwanke|1
+Daniel Hoornweg|Reza Ghafouri|1
+Daniel Meneley|George Bereznai|1
+Daniel Meneley|Kerry Morrison|1
+Daniel Meneley|Michael Dymarski|1
+Daniel Meneley|Peter Schwanke|1
+Daniel Meneley|Reza Ghafouri|1
+Danny Papagiannis|Faisal Qureshi|1
+Danny Papagiannis|Huiyan Wang|1
+Danny Papagiannis|Jeremy Bradbury|1
+Danny Papagiannis|Mehrdad Tirandazian|1
+Danny Papagiannis|Shawn Lennie|1
+Daphne Heywood|Jessica Clarkson|1
+Daphne Heywood|Kimberly Mitchell|1
+Dario T. Bonetta|Douglas Holdway|1
+Dario T. Bonetta|Janice Strap|1
+Dario T. Bonetta|Jean-Paul Desaulniers|1
+Dario T. Bonetta|Kirk Hillsley|1
+Dario T. Bonetta|Yuri Bolshan|1
+Daved Muttart|Hannah Scott|1
+Daved Muttart|Patrik Olsson|1
+Daved Muttart|Phillip Shon|1
+Daved Muttart|Rachel Ariss|1
+Daved Muttart|Ronald Hinch|1
+Daved Muttart|Salman Rana|1
+Daved Muttart|Scott M. Aquanno|1
+Daved Muttart|Shahid Alvi|1
+Daved Muttart|Steven Downing|1
+Daved Muttart|Treisha Hylton|1
+Daved Muttart|Wesley Crichlow|1
+David Agnew|William Goodman|1
+David Nussbaum|Joseph Eastwood|1
+David R. Whalley|Gene Byrnes|1
+David R. Whalley|Glenn Harvel|1
+David R. Whalley|John P. Froats|1
+David R. Whalley|John Shaw|1
+David Robertson|Kimberly Nugent|1
+David Sukhdeo|Michael Konopaski|1
+Deborah Devitt|Manon Lemonde|1
+Deborah Devitt|Simonne Simon|1
+Deborah Devitt|Yvette Dalrymple|1
+Deborah Harrison|John Samis|1
+Deborah Harrison|Ruth Simpson|1
+Denise Cook|Jenna N. Lasky|1
+Denise Cook|John Friedlan|1
+Denise Cook|Michael Konopaski|1
+Dennis Long|Liza A. Arnason|1
+Dhavide A. Aruliah|Sean Bohun|1
+Diana Petrarca|Robin Kay|1
+Donna Sherman|Kathy Lavis|1
+Donna Sherman|Manon Lemonde|1
+Donna Sherman|Oluwabukola Salami|1
+Donna Sherman|Sandra Mairs|1
+Donna Simpson|Leslie L. Graham|1
+Donna Simpson|Maria Wallace|1
+Donna Simpson|Patricia Munro-Gilbert|1
+Donna Simpson|Sandra Mairs|1
+Donna Simpson|Veronique Mcallister|1
+Donna Smeeton|Holly Taggart|1
+Donna Smeeton|Lavern Bourne|1
+Donna Smeeton|Michelle Hackenberger|1
+Donna Smeeton|Sharon Weeks|1
+Donna Smeeton|Sherry Arber|1
+Dorothea L. Service|Elizabeth Erwin|1
+Dorothea L. Service|Hilde Zitzelsberger|1
+Dorothea L. Service|Jennifer M. Abbass Dick|1
+Dorothea L. Service|Jillian Barnes|1
+Dorothea L. Service|Leslie L. Graham|1
+Dorothea L. Service|Michelle Yoksimovich|1
+Dorothea L. Service|Nancy Menagh|1
+Douglas Holdway|Janice Strap|1
+Douglas Holdway|Jason Chung|1
+Douglas Holdway|Jean-Paul Desaulniers|1
+Douglas Holdway|Julia Green-Johnson|1
+Douglas Holdway|Kirk Hillsley|1
+Douglas Holdway|Mary Olaveson|1
+Douglas Holdway|Sean G. Forrester|1
+Douglas Holdway|Yuri Bolshan|1
+Ebrahim Esmailzadeh|Greg Rohrauer|1
+Ebrahim Esmailzadeh|Payam Rahimi|1
+Ed Waller|George Bereznai|1
+Ed Waller|Gloria Orchard|1
+Ed Waller|Michael Dymarski|1
+Ed Waller|Mohamed Boussoufi|1
+Ed Waller|Robin Secord|1
+Elaine Salmers|Kadeen N. Briscoe|1
+Elaine Salmers|Kathy Cummings|1
+Elaine Salmers|Leslie L. Graham|1
+Elaine Salmers|Maria Wallace|1
+Elaine Salmers|Marianne Cochrane|1
+Elaine Salmers|Patricia Munro-Gilbert|1
+Elaine Salmers|Treva Job|1
+Eleodor M. Nichita|George Bereznai|1
+Eleodor M. Nichita|Kerry Morrison|1
+Eleodor M. Nichita|Michael Dymarski|1
+Eleodor M. Nichita|Mohamed Boussoufi|1
+Eleodor M. Nichita|Peter Schwanke|1
+Eleodor M. Nichita|Reza Ghafouri|1
+Eleodor M. Nichita|Robin Secord|1
+Elita Partosoedarso|Kadeen N. Briscoe|1
+Elita Partosoedarso|Leslie L. Graham|1
+Elita Partosoedarso|Lisa Fiksenbaum|1
+Elita Partosoedarso|Marianne Cochrane|1
+Elita Partosoedarso|Mika L. Nonoyama|1
+Elita Partosoedarso|Sean G. Forrester|1
+Elita Partosoedarso|Treva Job|1
+Elita Partosoedarso|Wally Bartfay|1
+Elita Partosoedarso|Yury Cheryachukin|1
+Elizabeth Childs|Heather A. Ellis|1
+Elizabeth Childs|Janet Symmons|1
+Elizabeth Erwin|Gail Lindsay|1
+Elizabeth Erwin|Jacqueline Limoges|1
+Elizabeth Erwin|Jennifer M. Abbass Dick|1
+Elizabeth Erwin|Jillian Barnes|1
+Elizabeth Erwin|Kadeen N. Briscoe|1
+Elizabeth Erwin|Mariana Markovic|1
+Elizabeth Erwin|Nancy Menagh|1
+Elizabeth Erwin|Tamara Dus|1
+Elizabeth Erwin|Victoria L. Smye|1
+Elizabeth Erwin|Wendy Stanyon|1
+Ellen Vogel|Emma Bartfay|1
+Ellen Vogel|Lisa Kitchen|1
+Ellen Vogel|Naomi Cahill|1
+Ellen Vogel|Paul Yielder|1
+Ellen Vogel|Robert Balogh|1
+Ellen Vogel|Wally Bartfay|1
+Emma Bartfay|Lisa Kitchen|1
+Emma Bartfay|Naomi Cahill|1
+Emma Bartfay|Paul Yielder|1
+Emma Bartfay|Robert Balogh|1
+Emma Bartfay|Wally Bartfay|1
+Eric Moran|Gene Byrnes|1
+Eric Moran|Hossam E. Gaber|1
+Eric Moran|Kerry Morrison|1
+Eric Moran|Lixuan Lu|1
+Eric Moran|Majid Borairi|1
+Eric Winmil|Ryan Riordan|1
+Erin Anstey|Nadia Jagar|1
+Erin Anstey|Paul Yielder|1
+Evelyn Moreau|Helene-Marie Goulding|1
+Evelyn Moreau|Lavern Bourne|1
+Evelyn Moreau|Nancy Bergeron|1
+Evelyn Moreau|Ruth Simpson|1
+Evelyn Moreau|Sue O'Dwyer|1
+Eyhab Al-Masri|Jaroslaw Szlichta|1
+Eyhab Al-Masri|Ken Pu|1
+Eyhab Al-Masri|Mark W. Green|1
+Eyhab Al-Masri|Mehrdad Tirandazian|1
+Eyhab Al-Masri|Patrick Hung|1
+Eyhab Al-Masri|Qusay Mahmoud|1
+Eyhab Al-Masri|Ramiro Liscano|1
+Eyhab Al-Masri|Shakil Khan|1
+Eyhab Al-Masri|Slawomir Kmiec|1
+Fabiola Longo|Kathy Cummings|1
+Fabiola Longo|Kathy Lavis|1
+Fabiola Longo|Nancy Lawrence|1
+Fabiola Longo|Patricia Munro-Gilbert|1
+Fabiola Longo|Sandra Mairs|1
+Faisal Qureshi|John Daniel|1
+Faisal Qureshi|Lennart Nacke|1
+Faisal Qureshi|Mark W. Green|1
+Faisal Qureshi|Randy J. Fortier|1
+Fannie Dimitriadis|Rajen Akalu|1
+Farid Bourennani|Shachaf Ben-Tzur|1
+Farid Bourennani|Shahryar Rahnamayan|1
+Fedor Naumkin|Isaac Tamblyn|1
+Fedor Naumkin|Omer Yukseker|1
+Ferdinand Jones|Michael Konopaski|1
+Ferdinand Jones|Samir Saadi|1
+Fiore Sicoly|Karla Emeno|1
+Fiore Sicoly|Kimberley A. Clow|1
+Fiore Sicoly|Leigh Harkins|1
+Fiore Sicoly|Liqun Cao|1
+Fiore Sicoly|Marie L. Polgar-Matthews|1
+Fiore Sicoly|Meaghan Savage|1
+Fiore Sicoly|Michael Mueller|1
+Fiore Sicoly|Nadia Jagar|1
+Fiore Sicoly|Nicole M. Myers|1
+Fiore Sicoly|Olga Marques|1
+Fiore Sicoly|Paula Dicato|1
+Fiore Sicoly|Reena Shah|1
+Fiore Sicoly|Ronald Bell|1
+Fiore Sicoly|Tyler Frederick|1
+Fletcher Lu|Gordon Lee|1
+Fletcher Lu|Lennart Nacke|1
+Foroohar Foorozan|Shahram Shahbazpanahi|1
+Franco Gaspari|Jennifer McKellar|1
+Franco Gaspari|Peter Berg|1
+Franco Gaspari|Samane Ghandehariun|1
+Franco Gaspari|Yuelei Yang|1
+Francois Desjardins|Lorayne Robertson|1
+Francois Desjardins|Robin Kay|1
+Francois Desjardins|Roland Van Oostveen|1
+Fred J. Read|Geoffrey S. Vaughan|1
+Fred J. Read|Richard Pazzi|1
+Frieda Daniels|Jen Rinaldi|1
+Frieda Daniels|Lorian Hardcastle|1
+Gail Lindsay|Jacqueline Limoges|1
+Gail Lindsay|Jennifer M. Abbass Dick|1
+Gail Lindsay|Mariana Markovic|1
+Gail Lindsay|Tamara Dus|1
+Gail Lindsay|Victoria L. Smye|1
+Gail Lindsay|Wendy Stanyon|1
+Ganaele Langlois|Gary Genosko|1
+Ganaele Langlois|Jonathan Obar|1
+Ganaele Langlois|Roberta Buiani|1
+Ganaele Langlois|Sharon Lauricella|1
+Ganaele Langlois|Tanner Mirrlees|1
+Ganaele Langlois|Tara Brabazon|1
+Ganaele Langlois|Teresa Pierce|1
+Gary Genosko|Lisa Tomlinson|1
+Gary Genosko|Ronald Hinch|1
+Gary Genosko|Shahid Alvi|1
+Gary Genosko|Sharon Lauricella|1
+Gary Genosko|Susan M. Scott|1
+Gary Genosko|Tara Brabazon|1
+Gary Genosko|Teresa Pierce|1
+Gavin Clingbine|Rhona Berengut|1
+Gavin Clingbine|Serena G. Sohrab|1
+Gene Byrnes|John P. Froats|1
+Geoffrey S. Vaughan|Richard Pazzi|1
+George Bereznai|Glenn Harvel|1
+George Bereznai|Hossam E. Gaber|1
+George Bereznai|Igor Pioro|1
+George Bereznai|Jennifer McKellar|1
+George Bereznai|John P. Froats|1
+George Bereznai|Kerry Morrison|1
+George Bereznai|Lixuan Lu|1
+George Bereznai|Matthew H. Kaye|1
+George Bereznai|Rachid Machrafi|1
+George Bereznai|Sharman Perera|1
+George Stamatiou|Kirk Hillsley|1
+Ghaus M. Rizvi|Usman Saeed|1
+Glenn Harvel|Gloria Orchard|1
+Glenn Harvel|John Shaw|1
+Glenn Harvel|Michael Dymarski|1
+Glenn Harvel|Robin Secord|1
+Gloria Orchard|Hossam E. Gaber|1
+Gloria Orchard|Igor Pioro|1
+Gloria Orchard|John P. Froats|1
+Gloria Orchard|Kerry Morrison|1
+Gloria Orchard|Lixuan Lu|1
+Gloria Orchard|Matthew H. Kaye|1
+Gloria Orchard|Peter Schwanke|1
+Gloria Orchard|Rachid Machrafi|1
+Gloria Orchard|Reza Ghafouri|1
+Goran Manneberg|Valeri Kapoustine|1
+Gordon Lee|Hamid Akbari|1
+Gordon Lee|Jenna Jacobson|1
+Gordon Lee|Kevin J. Baker|1
+Gordon Lee|Rob Halpin|1
+Gordon Lee|Steven Downing|1
+Graham D. Wight|Jen Rinaldi|1
+Graham D. Wight|Natalie Oman|1
+Graham D. Wight|Nicole M. Myers|1
+Graham D. Wight|Rob Halpin|1
+Graham D. Wight|Stan Maclellan|1
+Graham D. Wight|Steven Hutchinson|1
+Graham D. Wight|Thomas Decker|1
+Grant Hurlburt|Kari Kumar|1
+Grant Hurlburt|Kirk Hillsley|1
+Grant Hurlburt|Lorne Finnerty|1
+Grant Hurlburt|Nadia Jagar|1
+Grant Hurlburt|Nicole Campbell|1
+Grant Hurlburt|Paul Yielder|1
+Greg Chiykowski|Michael Konopaski|1
+Greg Chiykowski|Samir Saadi|1
+Greg Chiykowski|Samuel Alagurajah|1
+Greg Chiykowski|Tony Mayadunne|1
+Greg Lewis|Lennaert Van Veen|1
+Greg Lewis|Sean Bohun|1
+Greg Rohrauer|Hidayat Shahid|1
+Greg Rohrauer|Kamiel Gabriel|1
+Greg Rohrauer|Marc Rosen|1
+Greg Rohrauer|Masoud Farzam|1
+Greg Rohrauer|Michael F. Macleod|1
+Greg Rohrauer|Mikael Eklund|1
+Greg Rohrauer|Min Dong|1
+Greg Rohrauer|Moustafa El-Gindy|1
+Hamid Akbari|Jeff Moretz|1
+Hamid Akbari|Matthew Jelavic|1
+Hamid Akbari|Mehdi Hossein Nejad|1
+Hamid Akbari|Nada O. Basir|1
+Hanna Mayer|Kaitlyn C. Kaminski|1
+Hannah Scott|Jaclyn T. San Antonio|1
+Hannah Scott|Jordan Harel|1
+Hannah Scott|Judith A. Grant|1
+Hannah Scott|Olga Marques|1
+Hannah Scott|Phillip Shon|1
+Hannah Scott|Shahid Alvi|1
+Hannah Scott|Steven Downing|1
+Hannah Scott|Walter Dekeseredy|1
+Heather A. Ellis|Jia Li|1
+Heather A. Ellis|Zahra Punja|1
+Helene LeBlanc|Shari Forbes|1
+Helene-Marie Goulding|Maureen Wideman|1
+Helene-Marie Goulding|Nancy Bergeron|1
+Helene-Marie Goulding|Ruth Simpson|1
+Hendrick De Haan|Isaac Ye|1
+Hendrick De Haan|Joseph D. Macmillan|1
+Hendrick De Haan|Valeri Kapoustine|1
+Hidayat Shahid|Hossam Kishawy|1
+Hidayat Shahid|Kamiel Gabriel|1
+Hidayat Shahid|Marc Rosen|1
+Hidayat Shahid|Masoud Farzam|1
+Hidayat Shahid|Mikael Eklund|1
+Hidayat Shahid|Min Dong|1
+Hidayat Shahid|Remon Pop-Iliev|1
+Hidayat Shahid|Yuping He|1
+Hilde Zitzelsberger|Jennifer M. Abbass Dick|1
+Hilde Zitzelsberger|Kelly Kay|1
+Hilde Zitzelsberger|Kim Jagos|1
+Hilde Zitzelsberger|Laura Boyko|1
+Hilde Zitzelsberger|Lorian Hardcastle|1
+Hilde Zitzelsberger|Mariana Markovic|1
+Hilde Zitzelsberger|Marianne Cochrane|1
+Hilde Zitzelsberger|Mary Kate Garrity|1
+Hilde Zitzelsberger|Mathew E. Atkinson|1
+Hilde Zitzelsberger|Michelle Yoksimovich|1
+Hilde Zitzelsberger|Nadia Jagar|1
+Hilde Zitzelsberger|Nancy Lawrence|1
+Hilde Zitzelsberger|Sandra Chen|1
+Hilde Zitzelsberger|Sandra Mairs|1
+Holly Taggart|Kathleen Smith|1
+Holly Taggart|Kerry Johnson|1
+Holly Taggart|Kirk Hillsley|1
+Hossam E. Gaber|Khalid A. Hafeez|1
+Hossam E. Gaber|Majid Borairi|1
+Hossam E. Gaber|Michael Dymarski|1
+Hossam E. Gaber|Robin Secord|1
+Hossam E. Gaber|Vijay Sood|1
+Hossam Kishawy|Michael F. Macleod|1
+Hossam Kishawy|Vinh Quan|1
+Hui Wang|Khalil El-Khatib|1
+Hui Zhu|Jessica L. Clarke|1
+Huiyan Wang|Mark W. Green|1
+Huiyan Wang|Mehrdad Tirandazian|1
+Iain McPherson|Jenna Jacobson|1
+Iain McPherson|Kiri S. Lutchman|1
+Iain McPherson|Kristen Boujos|1
+Iain McPherson|Melissa Mastrangelo|1
+Iain McPherson|Susan M. Scott|1
+Ian Morrison|Judith A. Grant|1
+Ian Morrison|Lisa Tomlinson|1
+Ian Morrison|Liza A. Arnason|1
+Ian Morrison|Ronn Young|1
+Ian Morrison|Scott M. Aquanno|1
+Ian Morrison|Timothy Macneill|1
+Ian P. Barker|Jessica Salt|1
+Ian P. Barker|Matthew W. Follett|1
+Ian P. Barker|Steven Lester|1
+Ibrahim Dincer|Marc Rosen|1
+Ibrahim Dincer|Yuelei Yang|1
+Igor Pioro|Martin Agelin-Chaab|1
+Igor Pioro|Michael Dymarski|1
+Igor Pioro|Mohamed Boussoufi|1
+Igor Pioro|Reddy Bale|1
+Igor Pioro|Robin Secord|1
+Igor Pioro|Vitali Kovaltchouk|1
+Ilona Kletskin|Isaac Ye|1
+Ilona Kletskin|Kathleen Smith|1
+Ilona Kletskin|Mehran Ebrahimi|1
+Ilona Kletskin|Nicholas Faulkner|1
+Ilona Kletskin|Qing H. Li|1
+Ilona Kletskin|Sean Bohun|1
+Isaac Tamblyn|Joseph D. Macmillan|1
+Isaac Tamblyn|Peter Berg|1
+Isaac Tamblyn|Sergiy Boyko|1
+Isaac Ye|Mihai Beligan|1
+Isaac Ye|Nicholas Faulkner|1
+Isaac Ye|Paula Dicato|1
+Isaac Ye|Rupinder Brar|1
+Isabel Pedersen|Teresa Pierce|1
+Jackie Simkin|Tirtha Dhar|1
+Jacqueline Limoges|Jennifer M. Abbass Dick|1
+Jacqueline Limoges|Mariana Markovic|1
+Jacqueline Limoges|Tamara Dus|1
+Jacqueline Limoges|Victoria L. Smye|1
+Jacqueline Limoges|Wendy Stanyon|1
+James Silvester|Rupinder Brar|1
+Jan Matejovic|Janice Strap|1
+Jan Matejovic|Jean-Paul Desaulniers|1
+Jan Matejovic|Monica Sauer|1
+Jan Matejovic|Nelson Lafreniere|1
+Jan Matejovic|Omer Yukseker|1
+Jan Matejovic|Yuri Bolshan|1
+Jane M. Bowen|Jenna N. Lasky|1
+Jane M. Bowen|John Friedlan|1
+Jane M. Bowen|Michael Konopaski|1
+Janice Strap|Jason Chung|1
+Janice Strap|Jean-Paul Desaulniers|1
+Janice Strap|Jessica Galarza|1
+Janice Strap|Julia Green-Johnson|1
+Janice Strap|Mary Olaveson|1
+Janice Strap|Neil Warner|1
+Janice Strap|Sean G. Forrester|1
+Janice Strap|Yuri Bolshan|1
+Jaroslaw Szlichta|Ken Pu|1
+Jaroslaw Szlichta|Randy J. Fortier|1
+Jason Chung|Julia Green-Johnson|1
+Jason Demers|Olga Marques|1
+Jean-Paul Desaulniers|Sean G. Forrester|1
+Jean-Paul Desaulniers|Yuri Bolshan|1
+Jeff Moretz|Matthew Jelavic|1
+Jeff Moretz|Mehdi Hossein Nejad|1
+Jeff Moretz|Nada O. Basir|1
+Jeffrey Spring|Thomas Decker|1
+Jeffrey Spring|Thomas McMorrow|1
+Jen Rinaldi|Kristy Buccieri|1
+Jen Rinaldi|Lorian Hardcastle|1
+Jen Rinaldi|Molly Dragiewicz|1
+Jen Rinaldi|Salinda Horgan|1
+Jen Rinaldi|Salman Rana|1
+Jen Rinaldi|Sasha Baglay|1
+Jen Rinaldi|Steve Redhead|1
+Jen Rinaldi|Steven Downing|1
+Jenna Jacobson|Kiri S. Lutchman|1
+Jenna Jacobson|Kristen Boujos|1
+Jenna Jacobson|Melissa Mastrangelo|1
+Jenna Jacobson|Susan M. Scott|1
+Jenna N. Lasky|John Friedlan|1
+Jennifer Leo|Meghann Lloyd|1
+Jennifer Leo|Sarah West|1
+Jennifer M. Abbass Dick|Mariana Markovic|1
+Jennifer M. Abbass Dick|Michelle Yoksimovich|1
+Jennifer M. Abbass Dick|Tamara Dus|1
+Jennifer M. Abbass Dick|Victoria L. Smye|1
+Jennifer M. Abbass Dick|Wendy Stanyon|1
+Jennifer McKellar|Kerry Morrison|1
+Jennifer McKellar|Martin Agelin-Chaab|1
+Jennifer McKellar|Michael Dymarski|1
+Jennifer McKellar|Mohamed Boussoufi|1
+Jennifer McKellar|Peter Schwanke|1
+Jennifer McKellar|Reddy Bale|1
+Jennifer McKellar|Rob Gravelsins|1
+Jennifer McKellar|Tome Kosteski|1
+Jennifer McKellar|Valeri Kapoustine|1
+Jennifer Percival|John Rowcroft|1
+Jennifer Percival|Nadja M. Bressan|1
+Jennifer Percival|Rishikesan Kamaleswaran|1
+Jennifer Percival|Stephen Marsh|1
+Jeremy Bradbury|Jorge Landa|1
+Jeremy Bradbury|Kavitha Nadarajah|1
+Jeremy Bradbury|Mark W. Green|1
+Jeremy Bradbury|Mehrdad Tirandazian|1
+Jessica Bosse|Julian Daligadu|1
+Jessica Bosse|Kevin Power|1
+Jessica Bosse|Nicholas Antony|1
+Jessica Clarkson|Mark Chen|1
+Jessica Clarkson|Roland Van Oostveen|1
+Jessica Clarkson|Stephanie Fisher|1
+Jessica Galarza|Mary Olaveson|1
+Jia Li|Lorayne Robertson|1
+Jia Li|Zahra Punja|1
+Jillian Barnes|Leslie L. Graham|1
+Jillian Barnes|Nancy Menagh|1
+Jillian M. Gumbley|Meghann Lloyd|1
+Jing Ren|Namdar Saniei|1
+Jing Yang|Nicholas Faulkner|1
+Jing Yang|Ying Zhu|1
+JoAnne Arcand|Milly Ryan-Harshman|1
+JoAnne Arcand|Teri Emrich|1
+Joel Stewart|Shahryar Rahnamayan|1
+John Daniel|Mehrdad Tirandazian|1
+John Friedlan|Michael Konopaski|1
+John Friedlan|Pamela Ritchie|1
+John P. Froats|John Shaw|1
+John P. Froats|Michael Dymarski|1
+John P. Froats|Robin Secord|1
+John P. Froats|Stephen Strickland|1
+John Rowcroft|Ken Pu|1
+John Rowcroft|Tirtha Dhar|1
+John Samis|Mikael Khan|1
+John Samis|Sharon Weeks|1
+John W. Easton|Krisztina Paal|1
+John-Paul Tzountzouris|Laura Boyko|1
+Jonathan Obar|Tanner Mirrlees|1
+Jonathan Obar|Tara Brabazon|1
+Jordan Harel|Judith A. Grant|1
+Jordan Harel|Olga Marques|1
+Jordan Harel|Patrik Olsson|1
+Jordan Harel|Ronald Hinch|1
+Jordanne Christie|Roland Van Oostveen|1
+Jorge Landa|Mark W. Green|1
+Jorge Landa|Qusay Mahmoud|1
+Joseph D. Macmillan|Rupinder Brar|1
+Joseph D. Macmillan|Sergiy Boyko|1
+Joseph Eastwood|Kimberley A. Clow|1
+Joseph Eastwood|Shannon Vettor|1
+Joshua Lowe|Julie Thorpe|1
+Joshua Lowe|Ramzanali Jaffer|1
+Judith A. Grant|Lisa Tomlinson|1
+Judith A. Grant|Liza A. Arnason|1
+Judith A. Grant|Molly Dragiewicz|1
+Judith A. Grant|Nawal Ammar|1
+Judith A. Grant|Ronn Young|1
+Judith A. Grant|Sasha Baglay|1
+Judith A. Grant|Shahid Alvi|1
+Judith A. Grant|Timothy Macneill|1
+Judith A. Grant|Tyler Frederick|1
+Judith A. Grant|Wesley Crichlow|1
+Julia Green-Johnson|Kirk Hillsley|1
+Julia Green-Johnson|Sean G. Forrester|1
+Julia Green-Johnson|Sylvie Bardin|1
+Julia Green-Johnson|Yuri Bolshan|1
+Julian Daligadu|Kevin Power|1
+Julian Daligadu|Michael Holmes|1
+Julian Daligadu|Nicholas Antony|1
+Julian Daligadu|Shilpa Dogra|1
+Julian Daligadu|Simon Wang|1
+Julian Spillane|Kenneth Finney|1
+Kadeen N. Briscoe|Leslie L. Graham|1
+Kamal Smimou|Shantanu Dutta|1
+Kamiel Gabriel|Marc Rosen|1
+Kamiel Gabriel|Masoud Farzam|1
+Kamiel Gabriel|Michael F. Macleod|1
+Kamiel Gabriel|Michael J. Bennett|1
+Kamiel Gabriel|Mikael Eklund|1
+Kamiel Gabriel|Min Dong|1
+Kamila Sobol|Salma Karray|1
+Kamran Sartipi|Khalid A. Hafeez|1
+Kamran Sartipi|Mark W. Green|1
+Kari Kumar|Kirk Hillsley|1
+Kari Kumar|Lorne Finnerty|1
+Kari Kumar|Nadia Jagar|1
+Kari Kumar|Paul Yielder|1
+Karim Remtulla|Kristy Buccieri|1
+Karim Remtulla|Monika Korzun|1
+Karim Remtulla|Olga Marques|1
+Karim Remtulla|Salinda Horgan|1
+Karim Remtulla|Steven Downing|1
+Karla Dhungana-Sainju|Timothy Macneill|1
+Karla Emeno|Kimberley A. Clow|1
+Karla Emeno|Leigh Harkins|1
+Karla Emeno|Ronn Young|1
+Karthik Sankaranarayanan|Ying Zhu|1
+Kathleen L. Flynn|Laura Pinto|1
+Kathleen L. Flynn|Roland Van Oostveen|1
+Kathleen Smith|Lisa Kitchen|1
+Kathleen Smith|Mihai Beligan|1
+Kathleen Smith|Pietro-Luciano Buono|1
+Kathy Cummings|Sandra Mairs|1
+Kathy Cummings|Veronique Mcallister|1
+Kathy Lavis|Leslie L. Graham|1
+Kathy Lavis|Manon Lemonde|1
+Kathy Lavis|Nancy Lawrence|1
+Kathy Lavis|Oluwabukola Salami|1
+Kathy Lavis|Patricia Munro-Gilbert|1
+Kathy Lavis|Sandra Mairs|1
+Kelly Kay|Laura Boyko|1
+Kelly Kay|Lorian Hardcastle|1
+Kelly Kay|Nadia Jagar|1
+Kelly Kay|Sue Coffey|1
+Kemal Ozdemir|Masoud Makrehchi|1
+Kemal Ozdemir|Shahram Shahbazpanahi|1
+Kerry Johnson|Lisa Tomlinson|1
+Kerry Johnson|Milly Ryan-Harshman|1
+Kerry Morrison|Majid Borairi|1
+Kerry Morrison|Peter Schwanke|1
+Kerry Morrison|Reza Ghafouri|1
+Kerry Morrison|Sharman Perera|1
+Kevin C. Pope|Sharman Perera|1
+Kevin Coulter|Olena Zenkina|1
+Kevin Coulter|Omer Yukseker|1
+Kevin Lowe|Lori Keilty|1
+Kevin Lowe|Nancy Papadimitriou|1
+Kevin Lowe|Ron McKelvey|1
+Kevin Lowe|Shirley L. Smith|1
+Kevin Power|Michael Williams-Bell|1
+Khalid A. Hafeez|Michael J. Bennett|1
+Khalid A. Hafeez|Reza Ghafouri|1
+Khalid A. Hafeez|Vijay Sood|1
+Khalil El-Khatib|Khoder Shamy|1
+Khalil El-Khatib|Miguel Vargas Martin|1
+Khalil El-Khatib|Patrick Hung|1
+Khalil El-Khatib|Richard Pazzi|1
+Khoder Shamy|Miguel Vargas Martin|1
+Kim Jagos|Mariana Markovic|1
+Kim Jagos|Marianne Cochrane|1
+Kim Jagos|Mary Kate Garrity|1
+Kim Jagos|Mathew E. Atkinson|1
+Kim Jagos|Nancy Lawrence|1
+Kim Jagos|Sandra Chen|1
+Kim Jagos|Sandra Mairs|1
+Kim Jagos|Sue Coffey|1
+Kimberley A. Clow|Leigh Harkins|1
+Kimberley A. Clow|Ronn Young|1
+Kimberley McCartney-Young|Nariman Farsad|1
+Kimberley McCartney-Young|Ying Zhu|1
+Kimberly Bergeron|Toba Bryant|1
+Kimberly Nugent|Shari Forbes|1
+Kiri S. Lutchman|Kristen Boujos|1
+Kiri S. Lutchman|Melissa Mastrangelo|1
+Kiri S. Lutchman|Susan M. Scott|1
+Kirk Hillsley|Lorne Finnerty|1
+Kirk Hillsley|Mary Olaveson|1
+Kirk Hillsley|Milly Ryan-Harshman|1
+Kirk Hillsley|Nadia Jagar|1
+Kirk Hillsley|Nicole Campbell|1
+Kirk Hillsley|Paul Yielder|1
+Kirk Hillsley|Sean G. Forrester|1
+Kirk Hillsley|Sylvie Bardin|1
+Kristen Boujos|Melissa Mastrangelo|1
+Kristen Boujos|Natalie Chinsam|1
+Kristen Boujos|Susan M. Scott|1
+Kristen Boujos|Teresa Pierce|1
+Kristy Buccieri|Molly Dragiewicz|1
+Kristy Buccieri|Monika Korzun|1
+Kristy Buccieri|Olga Marques|1
+Kristy Buccieri|Shahid Alvi|1
+Kristy Buccieri|Thomas Decker|1
+Krisztina Paal|Yuri Bolshan|1
+Laura A. Benninger|Lori E. Van Belle|1
+Laura A. Benninger|Michael Corbett|1
+Laura A. Benninger|Nelson Lafreniere|1
+Laura A. Benninger|Shari Forbes|1
+Laura A. Benninger|Sonja Stadler|1
+Laura Boyko|Lorian Hardcastle|1
+Laura Boyko|Nadia Jagar|1
+Laura Boyko|Sue Coffey|1
+Laura Pinto|Wendy Barber|1
+Lavern Bourne|Michelle Hackenberger|1
+Lavern Bourne|Ruth Simpson|1
+Lavern Bourne|Sherry Arber|1
+Leigh Harkins|Michael Mueller|1
+Lennaert Van Veen|Mehran Ebrahimi|1
+Lennaert Van Veen|Pietro-Luciano Buono|1
+Lennart Nacke|Mark W. Green|1
+Lennart Nacke|Rina R. Wehbe|1
+Leslie L. Graham|Marianne Cochrane|1
+Leslie L. Graham|Nancy Lawrence|1
+Leslie L. Graham|Nancy Menagh|1
+Leslie L. Graham|Patricia Munro-Gilbert|1
+Leslie L. Graham|Sandra Goldsworthy|1
+Leslie L. Graham|Sandra Mairs|1
+Leslie L. Graham|Tracey Szarka|1
+Leslie L. Graham|Treva Job|1
+Liliana Trevani|Nelson Lafreniere|1
+Lilly Buchwitz|William Thurber|1
+Lilly Buchwitz|Yesim Ozalp|1
+Liqun Cao|Marie L. Polgar-Matthews|1
+Liqun Cao|Nicole M. Myers|1
+Lisa Fiksenbaum|Manon Lemonde|1
+Lisa Fiksenbaum|Nicole Campbell|1
+Lisa Fiksenbaum|Robert Balogh|1
+Lisa Fiksenbaum|Shilpa Dogra|1
+Lisa Fiksenbaum|Toba Bryant|1
+Lisa Kitchen|Naomi Cahill|1
+Lisa Kitchen|Paul Yielder|1
+Lisa Kitchen|Robert Balogh|1
+Lisa Kitchen|Wally Bartfay|1
+Lisa Kosh|Luis A. Zarrabeitia Gomez|1
+Lisa Tomlinson|Liza A. Arnason|1
+Lisa Tomlinson|Milly Ryan-Harshman|1
+Lisa Tomlinson|Ronn Young|1
+Lisa Tomlinson|Susan M. Scott|1
+Lisa Tomlinson|Timothy Macneill|1
+Lixuan Lu|Majid Borairi|1
+Lixuan Lu|Michael Dymarski|1
+Lixuan Lu|Robin Secord|1
+Liza A. Arnason|Ronn Young|1
+Liza A. Arnason|Timothy Macneill|1
+Lori E. Van Belle|Nelson Lafreniere|1
+Lori E. Van Belle|Richard Bartholomew|1
+Lori E. Van Belle|Sonja Stadler|1
+Lori Keilty|Shirley L. Smith|1
+Lorian Hardcastle|Nadia Jagar|1
+Lorian Hardcastle|Sue Coffey|1
+Lorne Finnerty|Nadia Jagar|1
+Lorne Finnerty|Nicole Campbell|1
+Lorne Finnerty|Paul Yielder|1
+Maha S. Elnaggar|Mikael Eklund|1
+Malcolm MacTaggart|Ryan Riordan|1
+Malcolm MacTaggart|Samuel Alagurajah|1
+Manon Lemonde|Mika L. Nonoyama|1
+Manon Lemonde|Oluwabukola Salami|1
+Manon Lemonde|Robert Weaver|1
+Manon Lemonde|Sandra Mairs|1
+Manon Lemonde|Simonne Simon|1
+Manon Lemonde|Wally Bartfay|1
+Manon Lemonde|Yury Cheryachukin|1
+Manon Lemonde|Yvette Dalrymple|1
+Marc Rosen|Masoud Farzam|1
+Marc Rosen|Michael F. Macleod|1
+Marc Rosen|Mikael Eklund|1
+Marc Rosen|Min Dong|1
+Margaret Sledziewski|Natalie Chinsam|1
+Maria Wallace|Veronique Mcallister|1
+Mariana Markovic|Marianne Cochrane|1
+Mariana Markovic|Mary Kate Garrity|1
+Mariana Markovic|Mathew E. Atkinson|1
+Mariana Markovic|Nancy Lawrence|1
+Mariana Markovic|Sandra Chen|1
+Mariana Markovic|Sandra Mairs|1
+Mariana Markovic|Sue Coffey|1
+Mariana Markovic|Tamara Dus|1
+Mariana Markovic|Victoria L. Smye|1
+Mariana Markovic|Wendy Stanyon|1
+Marianne Cochrane|Mary Kate Garrity|1
+Marianne Cochrane|Mathew E. Atkinson|1
+Marianne Cochrane|Milly Ryan-Harshman|1
+Marianne Cochrane|Nancy Lawrence|1
+Marianne Cochrane|Nancy Menagh|1
+Marianne Cochrane|Sandra Chen|1
+Marianne Cochrane|Sandra Mairs|1
+Marianne Cochrane|Sascha Tuuha|1
+Marianne Cochrane|Sue Coffey|1
+Marianne Cochrane|Treva Job|1
+Marie L. Polgar-Matthews|Meaghan Savage|1
+Marie L. Polgar-Matthews|Olga Marques|1
+Marie L. Polgar-Matthews|Reena Shah|1
+Marie L. Polgar-Matthews|Tyler Frederick|1
+Mark Chen|Stephanie Fisher|1
+Mark Staley|Pietro-Luciano Buono|1
+Mark Staley|Sean Bohun|1
+Mark W. Green|Randy J. Fortier|1
+Marnie Ham|Michael J. Bennett|1
+Marnie Ham|Payam Rahimi|1
+Marnie Ham|Yuelei Yang|1
+Martin Agelin-Chaab|Mohamed Boussoufi|1
+Martin Agelin-Chaab|Murat Aydin|1
+Martin Agelin-Chaab|Rami El-Emam|1
+Mary Kate Garrity|Mathew E. Atkinson|1
+Mary Kate Garrity|Nancy Lawrence|1
+Mary Kate Garrity|Sandra Chen|1
+Mary Kate Garrity|Sandra Mairs|1
+Mary Kate Garrity|Sue Coffey|1
+Mary Olaveson|Sylvie Bardin|1
+Masoud Farzam|Michael F. Macleod|1
+Masoud Farzam|Sarbast Rasheed|1
+Masoud Farzam|Shahram Shahbazpanahi|1
+Masoud Farzam|Walid M. Ibrahim|1
+Masoud Makrehchi|Ramiro Liscano|1
+Mathew E. Atkinson|Nancy Lawrence|1
+Mathew E. Atkinson|Sandra Chen|1
+Mathew E. Atkinson|Sandra Mairs|1
+Mathew E. Atkinson|Sue Coffey|1
+Matthew H. Kaye|Michael Dymarski|1
+Matthew H. Kaye|Rob Anderson|1
+Matthew Jelavic|Nada O. Basir|1
+Matthew W. Follett|Nicholas Antony|1
+Matthew W. Follett|Ryan Foley|1
+Maureen Wideman|Sue O'Dwyer|1
+Maurice Digiuseppe|Wendy Hardman|1
+Maurice Tomlinson|Natalie Oman|1
+Maurice Tomlinson|Rachel Ariss|1
+Meaghan Savage|Olga Marques|1
+Meaghan Savage|Tyler Frederick|1
+Meghann Lloyd|Sarah West|1
+Mehdi Hossein Nejad|Nada O. Basir|1
+Mehran Ebrahimi|Mihai Beligan|1
+Mehrdad Tirandazian|Qusay Mahmoud|1
+Melanie Richter-Montpetit|Scott M. Aquanno|1
+Melissa Mastrangelo|Susan M. Scott|1
+Micah Wagenberg|Steven Hutchinson|1
+Michael Dymarski|Peter Schwanke|1
+Michael Dymarski|Rachid Machrafi|1
+Michael Dymarski|Reza Ghafouri|1
+Michael Dymarski|Sharman Perera|1
+Michael F. Macleod|Mikael Eklund|1
+Michael F. Macleod|Min Dong|1
+Michael F. Macleod|Remon Pop-Iliev|1
+Michael F. Macleod|Yuping He|1
+Michael Holmes|Nicholas Antony|1
+Michael Holmes|Ryan Foley|1
+Michael J. Bennett|Mikael Eklund|1
+Michael Konopaski|Morden Shapiro|1
+Michael Konopaski|Ryan Riordan|1
+Michael Konopaski|Samuel Alagurajah|1
+Michael Mueller|Patrik Olsson|1
+Michael Perkins|Shahid Alvi|1
+Michael Williams-Bell|Nicholas Antony|1
+Michael Williams-Bell|Ryan Foley|1
+Michael Williams-Bell|Shilpa Dogra|1
+Michelle Hackenberger|Sharon Weeks|1
+Michelle Hackenberger|Sherry Arber|1
+Mihai Beligan|Nicholas Faulkner|1
+Mihai Beligan|Parnesh Grover|1
+Mihai Beligan|Paula Dicato|1
+Mika L. Nonoyama|Nicole Campbell|1
+Mika L. Nonoyama|Wally Bartfay|1
+Mika L. Nonoyama|Yury Cheryachukin|1
+Mikael Eklund|Min Dong|1
+Mikael Eklund|Sarbast Rasheed|1
+Mikael Khan|Ruth Simpson|1
+Milly Ryan-Harshman|Nancy Menagh|1
+Min Dong|Shahram Shahbazpanahi|1
+Mohamed Boussoufi|Robert B. Taylor|1
+Mohamed Boussoufi|Sharman Perera|1
+Mohamed Z. Youssef|Ramiro Liscano|1
+Mohamed Z. Youssef|Walid M. Ibrahim|1
+Mohamed Z. Youssef|Ying Wang|1
+Mohammad A. Zamani|Rene Midence|1
+Mohammad A. Zamani|Vijay Sood|1
+Molly Dragiewicz|Phillip Shon|1
+Molly Dragiewicz|Ronald Hinch|1
+Molly Dragiewicz|Salinda Horgan|1
+Molly Dragiewicz|Sasha Baglay|1
+Molly Dragiewicz|Shahid Alvi|1
+Molly Dragiewicz|Tyler Frederick|1
+Molly Dragiewicz|Wesley Crichlow|1
+Monika Korzun|Olga Marques|1
+Monika Korzun|Salinda Horgan|1
+Monika Korzun|Steven Downing|1
+Moustafa El-Gindy|Shahryar Rahnamayan|1
+Moustafa El-Gindy|Usman Saeed|1
+Nadia Jagar|Nicole Campbell|1
+Nadia Jagar|Paula Dicato|1
+Nadia Jagar|Peter Cauwenbergs|1
+Nadia Jagar|Ronald Bell|1
+Nadia Jagar|Sue Coffey|1
+Namdar Saniei|Ying Wang|1
+Nancy Bergeron|Ruth Simpson|1
+Nancy Bergeron|Sharon Weeks|1
+Nancy Bergeron|Sue O'Dwyer|1
+Nancy Lawrence|Patricia Munro-Gilbert|1
+Nancy Lawrence|Sandra Chen|1
+Nancy Lawrence|Sandra Mairs|1
+Nancy Lawrence|Sue Coffey|1
+Nancy Menagh|Sascha Tuuha|1
+Nancy Papadimitriou|Shirley L. Smith|1
+Naomi Cahill|Paul Yielder|1
+Naomi Cahill|Robert Balogh|1
+Naomi Cahill|Wally Bartfay|1
+Nariman Farsad|Shahram Heydari|1
+Nariman Farsad|Ying Zhu|1
+Natalie Chinsam|Rob Halpin|1
+Natalie Chinsam|Sharon Lauricella|1
+Natalie Oman|Nicole Aylwin|1
+Natalie Oman|Steve Redhead|1
+Nelson Lafreniere|Omer Yukseker|1
+Nelson Lafreniere|Shari Forbes|1
+Nicholas Antony|Ryan Foley|1
+Nicholas Faulkner|Paula Dicato|1
+Nicholas Faulkner|Qing H. Li|1
+Nicholas Faulkner|Ying Zhu|1
+Nick Wattie|Paul Yielder|1
+Nicole Campbell|Paul Yielder|1
+Nicole Campbell|Robert Balogh|1
+Nicole Campbell|Shilpa Dogra|1
+Nicole Campbell|Toba Bryant|1
+Nicole Campbell|Wally Bartfay|1
+Nicole Campbell|Yury Cheryachukin|1
+Nicole M. Myers|Reena Shah|1
+Nicole M. Myers|Steven Hutchinson|1
+Nicole M. Myers|Thomas Decker|1
+Nidal Qwasmi|Wei Shi|1
+Olga Marques|Phillip Shon|1
+Olga Marques|Salinda Horgan|1
+Olga Marques|Sasha Baglay|1
+Olga Marques|Shahid Alvi|1
+Olga Marques|Steven Hutchinson|1
+Olga Marques|Walter Dekeseredy|1
+Olga Marques|Wesley Crichlow|1
+Oluwabukola Salami|Sandra Mairs|1
+Otto Yung|Shantanu Dutta|1
+Pamela A. Stuckless|Robert Weaver|1
+Pamela A. Stuckless|Toba Bryant|1
+Patricia Munro-Gilbert|Veronique Mcallister|1
+Patrick Hung|Ross McKegney|1
+Patrick Hung|Slawomir Kmiec|1
+Patrik Olsson|Scott M. Aquanno|1
+Paul Yielder|Robert Balogh|1
+Paul Yielder|Sandra McKay|1
+Paul Yielder|Wally Bartfay|1
+Payam Rahimi|Yuelei Yang|1
+Payam Rahimi|Yuping He|1
+Pejman Mirza-Babaei|Rina R. Wehbe|1
+Peter Berg|Rupinder Brar|1
+Peter Berg|Sergiy Boyko|1
+Peter Berg|Tome Kosteski|1
+Peter Schwanke|Sharman Perera|1
+Phillip Shon|Sasha Baglay|1
+Phillip Shon|Tyler Frederick|1
+Phillip Shon|Walter Dekeseredy|1
+Phillip Shon|Wesley Crichlow|1
+Rachel Ariss|Steve Redhead|1
+Rachel Ariss|Steven Hutchinson|1
+Rachel Muehrer|Shawn Bullock|1
+Rachid Machrafi|Robert B. Taylor|1
+Rachid Machrafi|Robin Secord|1
+Rami El-Emam|Sayyed Ali Hosseini|1
+Rami El-Emam|Yuelei Yang|1
+Ramiro Liscano|Richard Pazzi|1
+Ramiro Liscano|Shahryar Rahnamayan|1
+Ramiro Liscano|Walid M. Ibrahim|1
+Ramiro Liscano|Wei Shi|1
+Ramiro Liscano|Ying Wang|1
+Ramzanali Jaffer|Richard Pazzi|1
+Ramzanali Jaffer|Snezhy Neshkova|1
+Randy J. Fortier|Shahryar Rahnamayan|1
+Reddy Bale|Reza Ghafouri|1
+Reddy Bale|Shahryar Rahnamayan|1
+Remon Pop-Iliev|Sayyed Ali Hosseini|1
+Rene Midence|Vijay Sood|1
+Reza Ghafouri|Yuelei Yang|1
+Richard Pazzi|Wei Shi|1
+Rishikesan Kamaleswaran|Stephen Marsh|1
+Rob Elkington|William Thurber|1
+Rob Halpin|Stan Maclellan|1
+Robert Balogh|Wally Bartfay|1
+Robert Weaver|Toba Bryant|1
+Roberta Buiani|Teresa Pierce|1
+Ron McKelvey|Sheila Rhodes|1
+Ron McKelvey|Shirley L. Smith|1
+Ronald Hinch|Sasha Baglay|1
+Ronald Hinch|Tyler Frederick|1
+Ronald Hinch|Wesley Crichlow|1
+Ronn Young|Timothy Macneill|1
+Ruth Milman|Shahryar Rahnamayan|1
+Ruth Simpson|Sue O'Dwyer|1
+Ryan Foley|Shilpa Dogra|1
+Ryan Foley|Simon Wang|1
+Ryan Foley|Steven Lester|1
+Ryan Riordan|Samuel Alagurajah|1
+Salman Rana|Thomas McMorrow|1
+Salman Rana|Treisha Hylton|1
+Salman Rana|Wesley Crichlow|1
+Samane Ghandehariun|Tome Kosteski|1
+Samane Ghandehariun|Valeri Kapoustine|1
+Samane Ghandehariun|Yuelei Yang|1
+Samir Saadi|Samuel Alagurajah|1
+Samir Saadi|Tony Mayadunne|1
+Sandra Chen|Sandra Mairs|1
+Sandra Chen|Sue Coffey|1
+Sandra Goldsworthy|Tracey Szarka|1
+Sandra Mairs|Sue Coffey|1
+Sandra Mairs|Wendy Stanyon|1
+Sasha Baglay|Shahid Alvi|1
+Sasha Baglay|Steven Downing|1
+Sasha Baglay|Tyler Frederick|1
+Sasha Baglay|Walter Dekeseredy|1
+Sasha Baglay|Wesley Crichlow|1
+Sayyed Ali Hosseini|Usman Saeed|1
+Scott M. Aquanno|Trevor W. Preston|1
+Sean Bohun|Yanyu Xiao|1
+Sean G. Forrester|Yuri Bolshan|1
+Shachaf Ben-Tzur|Xiaodong Lin|1
+Shahid Alvi|Tyler Frederick|1
+Shahid Alvi|Walter Dekeseredy|1
+Shahid Alvi|Wesley Crichlow|1
+Shahram Shahbazpanahi|Shahryar Rahnamayan|1
+Shahryar Garmsiri|Vinh Quan|1
+Shahryar Rahnamayan|Svetlana Novak|1
+Shahryar Rahnamayan|Yuelei Yang|1
+Sharon Lauricella|Susan M. Scott|1
+Sharon Lauricella|Tara Brabazon|1
+Sharon Lauricella|Teresa Pierce|1
+Sharon Weeks|Sherry Arber|1
+Simonne Simon|Yvette Dalrymple|1
+Stacey Taylor|Wendy Barber|1
+Stacey Taylor|Zahra Punja|1
+Stephen Cheung|Tirtha Dhar|1
+Steve Redhead|Thomas McMorrow|1
+Steve Tissenbaum|Yesim Ozalp|1
+Steven Downing|Tyler Frederick|1
+Steven Downing|Wesley Crichlow|1
+Steven Hutchinson|Thomas Decker|1
+Steven Hutchinson|Thomas McMorrow|1
+Tamara Dus|Victoria L. Smye|1
+Tamara Dus|Wendy Stanyon|1
+Tanner Mirrlees|Tara Brabazon|1
+Tara Brabazon|Teresa Pierce|1
+Thomas Decker|Thomas McMorrow|1
+Thomas Decker|Walter Dekeseredy|1
+Tirtha Dhar|Zhenfeng Ma|1
+Tome Kosteski|Yuelei Yang|1
+Tyler Frederick|Walter Dekeseredy|1
+Tyler Frederick|Wesley Crichlow|1
+Valeri Kapoustine|Yuelei Yang|1
+Victoria L. Smye|Wendy Stanyon|1
+Vinh Quan|Yuelei Yang|1
+Walid M. Ibrahim|Ying Wang|1
+Wally Bartfay|Yury Cheryachukin|1
+Walter Dekeseredy|Wesley Crichlow|1
+Wei Shi|Ying Zhu|1
