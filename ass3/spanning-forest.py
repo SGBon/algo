@@ -31,7 +31,7 @@ else:
     print "Usage: %s [filename]" % sys.argv[0]
     sys.exit(0)
 
-g = graphreader.read_graph(filename)
+g = graphreader.old_read(filename)
 
 # initialize nodes for spanning forest finding
 for r in g.keys():

@@ -8,4 +8,4 @@ else:
     sys.exit(0)
 
 g = graphreader.read_graph(filename)
-print "Nodes: %d Edges: %d" % (len(g.nodes),len(g.edges))
+print "Nodes: %d Edges: %d" % (len(g.nodes()),len(g.edges()))
