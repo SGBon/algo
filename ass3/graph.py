@@ -1,3 +1,5 @@
+import networkx as nx
+
 class Graph:
     def __init__(self):
         self.adjacency = dict()
@@ -16,10 +18,16 @@ class Graph:
         return self.nodes.get(v)
 
     def edge(self, v1, v2):
-        return self.edges[v]
+        return self.edges.get(v1,v2)
 
     def neighbours(self, v):
         return self.adjacency[v]
 
     def keys(self):
         return self.adjacency.keys()
+
+    def to_nx(self):
+        g = nx.Graph()
+        g.add_nodes_from(self.nodes.keys())
+        g.add_edges_from(self.edges.keys())
+        return g

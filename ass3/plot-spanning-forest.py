@@ -47,3 +47,13 @@ for r in g.keys():
         mst = prim(g,r)
         forest.append(mst)
         g.node(r)["color"] = "black"
+
+print len(forest)
+
+import networkx as nx
+from matplotlib import pyplot as plt
+
+todraw = g.to_nx()
+plt.figure()
+nx.draw(todraw,node_size=10,edge_color="gray",width=0.5)
+plt.show()

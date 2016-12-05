@@ -1,4 +1,5 @@
 import graph
+import networkx as nx
 
 def read_graph(filename):
     with open(filename,"r") as graph_file:
@@ -11,8 +12,8 @@ def read_graph(filename):
             d = {"weight":split[2]}
             if g.node(v1) == None:
                 g.add_node(v1,data=dict())
-
             if g.node(v2) == None:
                 g.add_node(v2,data=dict())
-            g.add_edge(v1,v2,data=d)
+            if g.edge(v1,v2) == None:
+                g.add_edge(v1,v2,data=d)
         return g
