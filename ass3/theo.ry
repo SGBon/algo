@@ -25,6 +25,87 @@ Function count_components(G: graph):
 2. The relationship between the DFS predecessor tree and the connected components is thus. They are equal when the graph is undirected but differ if the graph is directed. When the graph is directed, there can be multiple predecessor trees within a single connected component.
 
 5.
+Prim's algorithm modification
+function maximal_cut(G: graph,X: set of nodes): edge
+  w_max : holds the maximum weight of an edge
+  e_max : edge with the maximum weight
+  for e in edges of G:
+    V = first node in e
+    U = second node of e
+    if V is in X and U is not in X:
+      w = weight of e
+      if w_max is not set or w > w_max:
+        e_max = e
+        w_max = w
+  return e_max
+
+function prim(G: graph,r: node): maximal spanning tree
+  n: integer = number of nodes in G
+  X: set of nodes
+  T: set of edge pairs
+  Add r to X
+  for i in 0..(n-1):
+    e: = maximal_cut(G,X)
+    if e does not exist:
+      return T
+    color second node of e black
+    add second node of e to X
+    add e to T
+  return T
+
+function getForest(G: graph): maximal spanning forest
+  forest: list = empty
+  for r in nodes of G:
+    r.color = white
+
+  for r in nodes of g
+    if r.color is white
+      mst = prim(G,r)
+      add mst to forest
+      r.color = black
+  return forest
+
+The significant modification is changing the minimal_cut function to compute maximums instead of minimums. The next change is iterating over every node in the graph, and performing prim's algorithm with those nodes as the starting node. In prim's algorithm, nodes that are visited are coloured black to signify they have been visited.
+
+Kruskal's algorithm modification
+function find_set(partition: list of sets,v: node): integer
+  for pi = p0..pn in partition
+    if v is in pi:
+      return i
+  return None
+
+# take the union of two sets
+function join_sets(partition: list of sets, i1: integer, i2: integer):
+  p1:set = partition[i1]
+  p2:set = partition[i2]
+  j1 = min(i1,i2)
+  j2 = max(i1,i2)
+  remove from partitions the set at j2
+  add to partitions at j1 the union of p1 and p2
+
+function kruskal(g: graph): set of edges
+  tree_edges: set = empty
+  edges: set = set of edges in g
+  sort edges in descending order by edge weight
+  partition: list of sets
+  for v in nodes of graph:
+    newset: set = {v}
+    add newset to partition
+  for ei = e0..en in edges:
+    if partition == 1:
+      exit loop
+    v1: node = first node of e
+    v2: node = second node of e
+    i1 : integer = find_set(partition,v1)
+    i2: integer = find_set(partition,v2)
+    if i1 does not equal i2:
+      join_sets(partition,i1,i2)
+      tree_edges.add(e)
+  return tree_edges
+
+Modification: rather than sorting from least to greatest, sort the edges from greatest to least.
 
 6.
 1916 edges maximum in the maximal spanning forest
+
+8.
